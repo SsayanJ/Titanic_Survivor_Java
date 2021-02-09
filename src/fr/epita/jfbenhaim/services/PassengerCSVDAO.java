@@ -111,10 +111,10 @@ public class PassengerCSVDAO {
                 parts.set(i,parts.get(i).trim());
             }
             Passenger currPassenger= new Passenger();
-            currPassenger.setName(parts.get(0));
-            currPassenger.setPassengerClass(parts.get(1));
-            currPassenger.setAge(parts.get(2));
-            currPassenger.setSex(parts.get(3));
+            currPassenger.setName(parts.get(1));
+            currPassenger.setPassengerClass(parts.get(0));
+            currPassenger.setAge(parts.get(3));
+            currPassenger.setSex(parts.get(2));
             currPassenger.setSurvived(parts.get(4));
             currPassenger.setPredicted(parts.get(5));
             passengerList.add(currPassenger);

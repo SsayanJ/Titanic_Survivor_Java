@@ -8,7 +8,7 @@ import java.util.List;
 
 public class TestTDS3 {
 
-    public static void test {
+    public static void test() {
         try {
             List<Passenger> passengerList= PassengerCSVDAO.readAllPredictions();
             int TruePositive = 0;
