@@ -7,6 +7,7 @@ import fr.epita.jfbenhaim.services.PassengerDataService;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -16,12 +17,14 @@ public class TestTDS1 {
         Map<Passenger.PassengerClass,Double> distributionPClass= PassengerDataService
                 .calculatePClassDistribution(passengerList);
         System.out.println("Distribution of passengers per class: "+distributionPClass);
-        // Create a Survivors and Deceased groups
 
-
+        Map<Integer,Centroid> Centroids= getSurvivedCentroids(passengerList);
+        System.out.println("Typical surviving passenger: "+Centroids.get(1));
+        System.out.println("Typical not surviving passenger: "+Centroids.get(0));
     }
 
     public static Map<Integer,Centroid> getSurvivedCentroids(List<Passenger> passengerList){
+        // Create a Survivors and Deceased groups
         List<Passenger> Survivors= PassengerDataService.filterSurvived(passengerList,true);
         List<Passenger> Deceased= PassengerDataService.filterSurvived(passengerList,false);
 
@@ -29,7 +32,7 @@ public class TestTDS1 {
         int averageAgeDeceased=PassengerDataService.averageAge(Deceased);
         Double averagePClassDeceased=PassengerDataService.averagePClass(Deceased);
         Double averageSexDeceased=PassengerDataService.averageSex(Deceased);
-     
+
 
         // averages for the Survivors group
         int averageAgeSurvivors=PassengerDataService.averageAge(Survivors);
@@ -47,6 +50,10 @@ public class TestTDS1 {
         survivorCentroid.setAveragePclass(averagePClassSurvivors);
         survivorCentroid.setAverageSex(averageSexSurvivors);
 
-        Map<Integer,Centroid>
+        Map<Integer,Centroid>  centroids= new HashMap<>();
+        centroids.put(0,deceasedCentroid);
+        centroids.put(1,survivorCentroid);
+
+        return centroids;
     }
 }

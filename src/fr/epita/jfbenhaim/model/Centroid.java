@@ -6,6 +6,14 @@ public class Centroid {
     private double averagePclass;
     private double averageSex;
 
+    @Override
+    public String toString() {
+        return
+                "PClass=" + averagePclass +
+                ", Sex=" + averageSex +
+                ", Age=" + averageAge ;
+    }
+
     public int getAverageAge() {
         return averageAge;
     }
