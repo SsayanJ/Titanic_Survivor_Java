@@ -19,8 +19,12 @@ public class Passenger {
         return predicted;
     }
 
-    public void setPredicted(Boolean predicted) {
-        this.predicted = predicted;
+    public void setPredicted(String predicted) {
+        if (predicted.equals("true")){
+            this.predicted=true;
+        } else {
+            this.predicted = false;
+        }
     }
 
     public Passenger() {

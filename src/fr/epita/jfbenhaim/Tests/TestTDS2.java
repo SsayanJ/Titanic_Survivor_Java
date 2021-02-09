@@ -43,9 +43,9 @@ public class TestTDS2 {
             distanceDeceased=Math.sqrt(distanceDeceased);
 
             if (distanceDeceased>distanceSurvived){
-                passenger.setPredicted(true);
+                passenger.setPredicted("true");
             } else {
-                passenger.setPredicted(false);
+                passenger.setPredicted("false");
             }
 
 
