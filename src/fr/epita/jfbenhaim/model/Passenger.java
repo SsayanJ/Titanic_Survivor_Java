@@ -45,6 +45,20 @@ public class Passenger {
             this.passengerClass=null;
         }
     }
+    public Double PClassToDouble(){
+        if (this.passengerClass==null){
+            return null;
+        }else {
+            if (this.passengerClass.equals(PassengerClass.first)) {
+                return 1.0;
+            } else if (this.passengerClass.equals(PassengerClass.second)) {
+                return 2.0;
+            } else if (this.passengerClass.equals(PassengerClass.third)) {
+                return 3.0;
+            }
+        }
+        return null;
+    }
 
     public Double getAge() {
         return age;
@@ -73,6 +87,21 @@ public class Passenger {
             this.sex=null;
         }
     }
+
+    public Double SexToDouble(){
+        if (this.sex==null){
+            return null;
+        } else {
+            if (this.sex.equals(Sex.male)){
+                return 0.0;
+            } else if (this.sex.equals(Sex.female)){
+                return 1.0;
+            }
+        }
+
+        return null;
+    }
+
 
     public Boolean getSurvived() {
         return survived;

@@ -17,7 +17,9 @@ public class TestBLI1 {
         int averageAge=PassengerDataService.averageAge(filteredList);
         System.out.println("The average age of the passengers who survived is: "+ averageAge);
         Map<String, Double> distribution=PassengerDataService.calculateAgeDistribution(passengerList);
-        System.out.println(distribution);
-        System.out.println("Number of passenger of the age 0: "+distribution.get("0"));
+        System.out.println("Distribution of passengers per age: "+distribution);
+
+
+
     }
 }

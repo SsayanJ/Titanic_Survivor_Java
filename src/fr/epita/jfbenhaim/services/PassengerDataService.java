@@ -33,8 +33,38 @@ public class PassengerDataService {
 
     }
 
+    public static Double averagePClass(List<Passenger> passengers){
+        Double averagePClass=0.0;
+        int count=0; // used to count the number of passenger with valid Pclass in the data
+        for (Passenger passenger:passengers){
+            Double currPClass=passenger.PClassToDouble();
+            if (currPClass!=null){
+                averagePClass+=currPClass;
+                count+=1;
+            }
+        }
+        averagePClass=averagePClass/count;
+        return averagePClass;
+
+    }
+
+    public static Double averageSex(List<Passenger> passengers){
+        Double averageSex=0.0;
+        int count=0; // used to count the number of passenger with valid Pclass in the data
+        for (Passenger passenger:passengers){
+            Double currPClass=passenger.SexToDouble();
+            if (currPClass!=null){
+                averageSex+=currPClass;
+                count+=1;
+            }
+        }
+        averageSex=averageSex/count;
+        return averageSex;
+
+    }
+
     public static Map<String,Double> calculateAgeDistribution(List<Passenger> passengers){
-        HashMap<String,Double> distrib= new HashMap<>();
+        Map<String,Double> distrib= new HashMap<>();
         String currentAge;
         for(Passenger passenger:passengers){
             currentAge= String.valueOf((int) Math.floor(passenger.getAge()));
@@ -43,6 +73,18 @@ public class PassengerDataService {
 
         }
         return distrib;
+    }
+
+    public static Map<Passenger.PassengerClass,Double> calculatePClassDistribution(List<Passenger> passengers){
+        Map<Passenger.PassengerClass,Double> distribPClass= new HashMap<>();
+        Passenger.PassengerClass currentPClass;
+        for(Passenger passenger:passengers){
+            currentPClass= passenger.getPassengerClass();
+            Double actualCount = distribPClass.get(currentPClass);
+            distribPClass.put(currentPClass , actualCount == null ? 1 : actualCount + 1);
+
+        }
+        return distribPClass;
     }
 
 }
