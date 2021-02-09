@@ -9,7 +9,7 @@ import java.util.List;
 public class TestSER3 {
     public static void test() throws IOException {
         List<Passenger> passengerList= PassengerCSVDAO.readAll();
-        PassengerCSVDAO.writeAll(passengerList);
+        PassengerCSVDAO.writeAll(passengerList, "data_output.csv");
 
     }
 }

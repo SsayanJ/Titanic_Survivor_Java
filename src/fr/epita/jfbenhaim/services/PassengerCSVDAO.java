@@ -42,8 +42,8 @@ public class PassengerCSVDAO {
         return sortedPassengerList;
     }
 
-    public static void writeAll(List<Passenger> passengerList) throws IOException {
-        FileWriter csvWriter = new FileWriter("output/data_output.csv");
+    public static void writeAll(List<Passenger> passengerList, String filename) throws IOException {
+        FileWriter csvWriter = new FileWriter("output/" + filename);
         csvWriter.append("PClass");
         csvWriter.append(";");
         csvWriter.append("Name");

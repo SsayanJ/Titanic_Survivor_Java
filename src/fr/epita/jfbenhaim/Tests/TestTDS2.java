@@ -51,6 +51,7 @@ public class TestTDS2 {
 
 
         }
+        PassengerCSVDAO.writeAll(passengerList, "output_predicted.csv");
 
 
     }
