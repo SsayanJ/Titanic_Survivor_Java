@@ -29,7 +29,7 @@ public class TestTDS3 {
             }
 
             System.out.println("True Positives: "+TruePositive);
-            System.out.println("True Negatives: "+TruePositive);
+            System.out.println("True Negatives: "+TrueNegative);
             System.out.println("False Positives: "+FalsePositive);
             System.out.println("False Negatives: "+FalseNegative);
 
