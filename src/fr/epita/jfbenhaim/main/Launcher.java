@@ -14,6 +14,7 @@ public class Launcher {
         TestSER3.test();
         TestBLI1.test();
         TestTDS1.test();
+        TestTDS2.test();
 
 
     }

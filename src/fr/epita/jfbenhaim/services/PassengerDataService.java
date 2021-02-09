@@ -1,5 +1,6 @@
 package fr.epita.jfbenhaim.services;
 
+import fr.epita.jfbenhaim.model.Centroid;
 import fr.epita.jfbenhaim.model.Passenger;
 
 import java.util.ArrayList;
@@ -87,4 +88,37 @@ public class PassengerDataService {
         return distribPClass;
     }
 
+    public static Map<Integer, Centroid> getSurvivedCentroids(List<Passenger> passengerList){
+        // Create a Survivors and Deceased groups
+        List<Passenger> Survivors= filterSurvived(passengerList,true);
+        List<Passenger> Deceased= filterSurvived(passengerList,false);
+
+        // Averages for the deceased group
+        int averageAgeDeceased= averageAge(Deceased);
+        Double averagePClassDeceased= averagePClass(Deceased);
+        Double averageSexDeceased= averageSex(Deceased);
+
+
+        // averages for the Survivors group
+        int averageAgeSurvivors= averageAge(Survivors);
+        Double averagePClassSurvivors= averagePClass(Survivors);
+        Double averageSexSurvivors= averageSex(Survivors);
+
+
+        // Create centroids and the map
+        Centroid deceasedCentroid=new Centroid();
+        Centroid survivorCentroid=new Centroid();
+        deceasedCentroid.setAverageAge(averageAgeDeceased);
+        deceasedCentroid.setAveragePclass(averagePClassDeceased);
+        deceasedCentroid.setAverageSex(averageSexDeceased);
+        survivorCentroid.setAverageAge(averageAgeSurvivors);
+        survivorCentroid.setAveragePclass(averagePClassSurvivors);
+        survivorCentroid.setAverageSex(averageSexSurvivors);
+
+        Map<Integer,Centroid>  centroids= new HashMap<>();
+        centroids.put(0,deceasedCentroid);
+        centroids.put(1,survivorCentroid);
+
+        return centroids;
+    }
 }
