@@ -24,12 +24,9 @@ public class Passenger {
 
     @Override
     public String toString() {
-        return "Passenger{" +
+        return "Passenger [" +
                 "name='" + name + '\'' +
-                ", passengerClass=" + passengerClass +
-                ", age=" + age +
-                ", sex=" + sex +
                 ", survived=" + survived +
-                '}';
+                ']';
     }
 }

@@ -1,4 +1,4 @@
-package fr.epita.jfbenhaim.services;
+package fr.epita.jfbenhaim.Test;
 
 import fr.epita.jfbenhaim.model.Passenger;
 
