@@ -13,6 +13,15 @@ public class Passenger {
     private Double age;
     private Sex sex;
     private Boolean survived;
+    private Boolean predicted;
+
+    public Boolean getPredicted() {
+        return predicted;
+    }
+
+    public void setPredicted(Boolean predicted) {
+        this.predicted = predicted;
+    }
 
     public Passenger() {
         this.name = name;
