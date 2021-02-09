@@ -1,1314 +1,1314 @@
-PClass;Name;Sex;Age;Survived
-first;Artagaveytia, Mr Ramon;male;71.0;false
-first;Goldschmidt, Mr George B;male;71.0;false
-second;Mitchell, Mr Henry Michael;male;71.0;false
-first;Crosby, Captain Edward Gifford;male;70.0;false
-first;Crosby, Mrs Edward Gifford (Catherine Elizabeth Halstead);female;69.0;true
-first;Straus, Mr Isidor;male;67.0;false
-first;Millet, Mr Francis Davis;male;65.0;false
-third;Dewan, Mr Frank;male;65.0;false
-first;Compton, Mrs Alexander Taylor (Mary Eliza Ingersoll);female;64.0;true
-first;Fortune, Mr Mark;male;64.0;false
-first;Nicholson, Mr Arthur Ernest;male;64.0;false
-first;Ostby, Mr Engelhart Cornelius;male;64.0;false
-first;Warren, Mr Frank Manley;male;64.0;false
-second;Myles, Mr Thomas Francis;male;64.0;false
-first;Andrews, Miss Kornelia Theodosia;female;63.0;true
-first;Straus, Mrs Isidor (Ida Blun);female;63.0;false
-third;Turkula, Mrs Hedvig;female;63.0;true
-first;Stead, Mr William Thomas;male;62.0;false
-first;Stone, Mrs George Nelson (Martha E);female;62.0;true
-first;Ryerson, Mr Arthur Larned;male;61.0;false
-first;Sutton, Mr Frederick;male;61.0;false
-first;Van Derhoef, Mr Wyckoff;male;61.0;false
-first;Bucknell, Mrs William Robert (Emma Eliza Ward);female;60.0;true
-first;Fortune, Mrs Mark (Mary McDougald);female;60.0;true
-first;Frolicher-Stehli, Mr Maxmillian;male;60.0;true
-first;Warren, Mrs Frank Manley (An S Atkinson);female;60.0;true
-first;Weir, Col John;male;60.0;false
-first;Brown, Mrs John Murray (Caroline Lane Lamson);female;59.0;true
-second;Sjostedt, Mr Ernst Adolf;male;59.0;false
-third;Coxon, Mr Daniel;male;59.0;false
-first;Appleton, Mrs Edward Dale (Charlotte Lamson);female;58.0;true
-first;Bonnell, Miss Elizabeth;female;58.0;true
-first;Cardeza, Mrs James Warburton Martinez (Charlotte Wardle Drake);female;58.0;true
-first;Graham, Mrs William Thompson (Edith Junkins);female;58.0;true
-first;Kent, Mr Edward Austin;male;58.0;false
-first;Newell, Mr Arthur Webster;male;58.0;false
-first;Spencer, Mr William Augustus;male;57.0;false
-first;Wick, Mr George Dennick;male;57.0;false
-second;Ashby, Mr John;male;57.0;false
-second;Mack, Mrs Mary;female;57.0;false
-first;Potter, Mrs Thomas, Jr (Lily Alexenia Wilson);female;56.0;true
-first;Simonius-Blumer, Col Alfons;male;56.0;true
-first;Smart, Mr John Montgomery;male;56.0;false
-first;Smith, Mr James Clinch;male;56.0;false
-first;Cornell, Mrs Robert Clifford (Malvi Helen Lamson);female;55.0;true
-first;Hays, Mr Charles Melville;male;55.0;false
-first;Lindstrom, Mrs Carl Johan (Sigrid Posse);female;55.0;true
-first;Molson, Mr Harry Markland;male;55.0;false
-first;Rothschild, Mr Martin;male;55.0;false
-first;White, Mrs J Stuart (Ella Holmes);female;55.0;true
-first;Gracie, Colonel Archibald IV;male;54.0;true
-first;McCarthy, Mr Timothy J;male;54.0;false
-first;Rothschild, Mrs Martin (Elizabeth L Barrett);female;54.0;true
-first;Stengel, Mr Charles Emil Henry;male;54.0;true
-first;White, Mr Percival Wayland;male;54.0;false
-second;Carter, Rev Ernest Courtey;male;54.0;false
-second;Moraweck, Dr Ernest;male;54.0;false
-first;Candee, Mrs Edward (Helen Churchill Hungerford);female;53.0;true
-first;Eustis, Miss Elizabeth Mussey;female;53.0;true
-second;Hocking, Mrs Elizabeth;female;53.0;true
-first;Hays, Mrs Charles Melville (Clara Jennings Gregg);female;52.0;true
-first;Peuchen, Major Arthur Godfrey;male;52.0;true
-first;Stephenson, Mrs Walter Bertram (Martha Eustis);female;52.0;true
-first;Taussig, Mr Emil;male;52.0;false
-second;Chapman, Mr Charles Henry;male;52.0;false
-second;Hodges, Mr Henry Price;male;52.0;false
-first;Hogeboom, Mrs John C (An Andrews);female;51.0;true
-first;Williams, Mr Charles Duane;male;51.0;false
-second;Bateman, Rev Robert James;male;51.0;false
-third;Widegren, Mr Charles Peter;male;51.0;false
-first;Baxter, Mrs James (Helene DeLaudeniere Chaput);female;50.0;true
-first;Douglas, Mr Walter Dold;male;50.0;false
-first;Isham, Miss Anne Elizabeth;female;50.0;false
-first;Lines, Mrs Ernest H (Elizabeth Lindsey James);female;50.0;true
-first;Silvey, Mr William Baird;male;50.0;false
-first;Widener, Mr George Dunton;male;50.0;false
-first;Widener, Mrs George Dunton (Eleanor Elkins);female;50.0;true
-second;Greenberg, Mr Samuel;male;50.0;false
-second;Parrish, Mrs Lutie Davis;female;50.0;true
-second;Ridsdale, Miss Lucy;female;50.0;true
-second;Toomey, Miss Ellen;female;50.0;true
-first;Case, Mr Howard Brown;male;49.0;false
-first;Duff Gordon, Sir Cosmo Edmund;male;49.0;true
-first;Frauenthal, Dr Henry William;male;49.0;true
-first;Goldenberg, Mr Samuel L;male;49.0;true
-first;Harper, Mrs Henry Sleeper (My Haxtun);female;49.0;true
-first;Ismay, Mr Joseph Bruce;male;49.0;true
-first;Thayer, Mr John Borland;male;49.0;false
-second;Davis, Mrs Agnes;female;49.0;true
-second;Herman, Mr Samuel;male;49.0;false
-third;Johnson, Mr Alfred;male;49.0;false
-first;Brandeis, Mr Emil;male;48.0;false
-first;Douglas, Mrs Walter Dold (Mahala Dutton);female;48.0;true
-first;Duff Gordon, Lady (Lucille Wallace Sutherland);female;48.0;true
-first;Frolicher-Stehli, Mrs Maxmillian (Margaretha Emerentia Stehli);female;48.0;true
-first;Harper, Mr Henry Sleeper;male;48.0;true
-first;Ryerson, Mrs Arthur Larned (Emily Maria Borie);female;48.0;true
-first;Taylor, Mr Elmer Zebley;male;48.0;true
-second;Herman, Mrs Samuel (Jane Laver);female;48.0;true
-second;Louch, Mr Charles Alexander;male;48.0;false
-second;Milling, Mr Jacob Christian;male;48.0;false
-third;Ford, Mrs Edward (Margaret Ann);female;48.0;false
-third;Jensen, Mr Niels Peder;male;48.0;false
-first;Anderson, Mr Harry;male;47.0;true
-first;Astor, Colonel John Jacob;male;47.0;false
-first;Beckwith, Mrs Richard Leord (Sallie Monypeny);female;47.0;true
-first;Chaffee, Mrs Herbert Fuller (Carrie Constance Toogood);female;47.0;true
-first;Gee, Mr Arthur H;male;47.0;false
-first;Moore, Mr Clarence Bloomfield;male;47.0;false
-first;Walker, Mr William Anderson;male;47.0;false
-third;Elsbury, Mr James;male;47.0;false
-third;Vereruysse, Mr Victor;male;47.0;false
-first;Chaffee, Mr Herbert Fuller;male;46.0;false
-first;Guggenheim, Mr Benjamin;male;46.0;false
-first;Jones, Mr Charles Cresson;male;46.0;false
-first;McCaffry, Mr Thomas Francis;male;46.0;false
-first;Porter, Mr Walter Chamberlain;male;46.0;false
-first;Swift, Mrs Frederick Joel (Margaret Welles Barron);female;46.0;true
-first;Thorne, Mr George (alias of: Mr George Rosenshine);male;46.0;false
-second;McKane, Mr Peter D;male;46.0;false
-first;Blackwell, Mr Stephen Weart;male;45.0;false
-first;Bowen, Miss Grace Scott;female;45.0;true
-first;Butt, Major Archibald Willingham;male;45.0;false
-first;Gibson, Mrs Leord (Pauline C Boeson);female;45.0;true
-first;Greenfield, Mrs Leo David (Blanche Strouse);female;45.0;true
-first;Harris, Mr Henry Birkhardt;male;45.0;false
-first;Spedden, Mr Frederick Oakley;male;45.0;true
-first;Wick, Mrs George Dennick (Martha Hitchcock);female;45.0;true
-second;Brown, Mr Thomas William Solomon;male;45.0;false
-second;Gilbert, Mr William;male;45.0;false
-second;Hart, Mrs Benjamin (Esther);female;45.0;true
-second;Kelly, Mrs Florence (Fannie);female;45.0;true
-second;McCrae, Mr Arthur Gordon;male;45.0;false
-third;Assaf, Mrs Maria;female;45.0;true
-third;Barbara, Mrs Catherine;female;45.0;false
-third;Dahl, Mr Charles Edward;male;45.0;true
-third;Ekstrom, Mr Johan;male;45.0;false
-third;Hansen, Mrs Claus Peter;female;45.0;true
-third;Lindblom, Miss Augusta Charlotta;female;45.0;false
-third;Wilkes, Mrs Ellen;female;45.0;true
-first;Brown, Mrs James Joseph (Margaret Molly" Tobin)";female;44.0;true
-first;Frauenthal, Mr Isaac Gerald;male;44.0;true
-first;Hippach, Mrs Louis Albert (Ida Sophia Fischer);female;44.0;true
-first;Mihan, Dr William Edward;male;44.0;false
-second;Carter, Mrs Ernest Courtey (Lillian Hughes);female;44.0;false
-second;Harbeck, Mr William H;male;44.0;false
-third;Cribb, Mr John Hatfield;male;44.0;false
-third;Kelly, Mr James;male;44.0;false
-first;Robert, Mrs Edward Scott (Elisabeth Walton McMillan);female;43.0;true
-first;Stengel, Mrs Charles Emil Henry (Annie May Morris);female;43.0;true
-second;Hart, Mr Benjamin;male;43.0;false
-third;Cook, Mr Jacob;male;43.0;false
-third;Dintcheff, Mr Valtcho;male;43.0;false
-third;Goodwin, Mrs Frederick (Augusta);female;43.0;false
-third;Holm, Mr John Frederik Alexander;male;43.0;false
-first;Holverson, Mr Alexander Oskar;male;42.0;false
-first;Kimball, Mr Edwin Nelson Jr;male;42.0;true
-first;Lindeberg-Lind, Mr Erik Gustaf;male;42.0;false
-second;Bystrom, Mrs Caroli;female;42.0;true
-second;Drew, Mr James Vivian;male;42.0;false
-second;Hold, Mr Stephen;male;42.0;false
-second;Phillips, Miss Alice;female;42.0;true
-third;Abbing, Mr Anthony;male;42.0;false
-third;Dimic, Mr Jovan;male;42.0;false
-third;Humblin, Mr Adolf Mathias Nicolai Olsen;male;42.0;false
-third;Kelly, Mr James;male;42.0;false
-first;Brady, Mr John Bertram;male;41.0;false
-first;Kenyon, Mr Frederick R;male;41.0;false
-second;Hosono, Mr Masafumi;male;41.0;true
-second;Mellenger, Mrs Elizabeth Anne;female;41.0;true
-second;Stanton, Mr Samuel Ward;male;41.0;false
-third;Aijo-Nirva, Mr Isak;male;41.0;false
-third;Goldsmith, Mr than;male;41.0;false
-third;Hansen, Mr Claus Peter;male;41.0;false
-first;Kimball, Mrs Edwin Nelson Jr (Gertrude Parsons);female;40.0;true
-first;Shutes, Miss Elizabeth W;female;40.0;true
-first;Spedden, Mrs Frederick Oakley (Margaretta Corning Stone);female;40.0;true
-first;Harrison, Mr William   Henry;male;40.0;false
-second;Brown, Mrs Thomas William Solomon (Elizabeth C);female;40.0;true
-second;Peruschitz, Rev Joseph M;male;40.0;false
-second;Watt, Mrs James (Bessie Inglis Milne);female;40.0;true
-third;Ahlin, Mrs Johan Persdotter;female;40.0;false
-third;Asplund, Mr Carl Oscar Vilhelm Gustafsson;male;40.0;false
-third;Badt, Mr Mohamed;male;40.0;false
-third;Bourke, Mr John;male;40.0;false
-third;Goodwin, Mr Frederick;male;40.0;false
-third;Green, Mr George;male;40.0;false
-first;Andrews, Mr Thomas, jr;male;39.0;false
-first;Blank, Mr Henry;male;39.0;true
-first;Compton, Miss Sara Rebecca;female;39.0;true
-first;Cumings, Mr John Bradley;male;39.0;false
-first;Dulles, Mr William Crothers;male;39.0;false
-first;Silvey, Mrs William Baird (Alice Munger);female;39.0;true
-first;Taussig, Mrs Emil (Tillie Mandelbaum);female;39.0;true
-first;Thayer, Mrs John Borland (Marian Longstreth Morris);female;39.0;true
-second;Otter, Mr Richard;male;39.0;false
-third;Andersson, Mr Anders Johan;male;39.0;false
-third;Andersson, Mrs Anders Johan (Alfrida K Brogren);female;39.0;false
-third;Karun, Mr Franz;male;39.0;false
-third;Kink, Mr Anton;male;39.0;true
-third;Lester, Mr James;male;39.0;false
-first;Cumings, Mrs John Bradley (Florence Briggs Thayer);female;38.0;true
-first;Graham, Mr George Edward;male;38.0;false
-first;Hoyt, Mr Frederick Maxfield;male;38.0;true
-second;Fox, Mr Stanley H;male;38.0;false
-second;Funk, Miss Annie C;female;38.0;false
-second;Gale, Mr Shadrach;male;38.0;false
-third;Andersson, Miss Ida Augusta Margareta;female;38.0;false
-third;Asplund, Mrs Carl Oscar (Selma Augusta Johansson);female;38.0;true
-third;Cacic, Mr Luka;male;38.0;false
-third;Georges, Mrs Shahini Weappi;female;38.0;true
-third;Goncalves, Mr Manuel Estanslas;male;38.0;false
-first;Beckwith, Mr Richard Leord;male;37.0;true
-first;Compton, Mr Alexander Taylor, Jr;male;37.0;false
-first;Futrelle, Mr Jacques;male;37.0;false
-first;Mihan, Mrs William Edward (Lillian E Thorpe);female;37.0;true
-third;Carr, Miss Jeannie;female;37.0;false
-third;Gustafsson, Mr Anders Vilhelm;male;37.0;false
-third;Laitinen, Miss Kriti Sofia;female;37.0;false
-first;Beattie, Mr Thomson;male;36.0;false
-first;Cardeza, Mr Thomas Drake Martinez;male;36.0;true
-first;Carter, Mr William Ernest;male;36.0;true
-first;Carter, Mrs William Ernest (Lucile Polk);female;36.0;true
-first;Cavendish, Mr Tyrell William;male;36.0;false
-first;Crosby, Miss Harriet R;female;36.0;true
-first;Evans, Miss Edith Corse;female;36.0;false
-first;Harris, Mrs Henry Birkhardt (Irene Wallach);female;36.0;true
-first;McGough, Mr James R;male;36.0;true
-first;tsch, Mr Charles H;male;36.0;false
-first;Silverthorne, Mr Spencer Victor;male;36.0;true
-first;Young, Miss Marie Grice;female;36.0;true
-second;Balls, Mrs Ada E Hall;female;36.0;true
-second;Becker, Mrs Allen Oliver (Nellie E Baumgardner);female;36.0;true
-second;Buss, Miss Kate;female;36.0;true
-second;Hold, Mrs Stephen (Annie Margaret);female;36.0;true
-second;Reeves, Mr David;male;36.0;false
-second;Webber, Miss Susan;female;36.0;true
-second;West, Mr Edwy Arthur;male;36.0;false
-third;Coleff, Mr Peyo;male;36.0;false
-third;Coutts, Mrs William (Minnie);female;36.0;true
-third;De Messemaeker, Mr William Joseph;male;36.0;true
-third;De Messemaeker, Mrs William Joseph (An);female;36.0;true
-third;Klasen, Mrs Hulda Kristi;female;36.0;false
-third;Leord, Mr Lionel;male;36.0;false
-third;Lindell, Mr Edvard Bengtsson;male;36.0;false
-third;Van de Velde, Mr John Joseph;male;36.0;false
-third;Van Impe, Mr Jean Baptiste;male;36.0;false
-third;Wittevrongel, Mr Camiel;male;36.0;false
-first;Futrelle, Mrs Jacques (May Peel);female;35.0;true
-first;Holverson, Mrs Alexander Oskar (Mary Aline Towner);female;35.0;true
-first;Homer, Mr Harry;male;35.0;true
-first;Hoyt, Mrs Frederick Maxfield (Jane Anne Forby);female;35.0;true
-second;Collyer, Mr Harvey;male;35.0;false
-second;Fynney, Mr Joseph J;male;35.0;false
-second;Gale, Mr Harry;male;35.0;false
-second;Slemen, Mr Richard James;male;35.0;false
-second;Walcroft, Miss Nellie;female;35.0;true
-third;Abbott, Mrs Stanton (Rosa);female;35.0;true
-third;Allen, Mr William Henry;male;35.0;false
-third;Asim, Mr Adola;male;35.0;false
-third;Brocklebank, Mr William Alfred;male;35.0;false
-third;Cor, Mr Bartol;male;35.0;false
-first;Seward, Mr Frederic Kimber;male;34.0;true
-second;Angle, Mr William A;male;34.0;false
-second;Beesley, Mr Lawrence;male;34.0;true
-second;Drew, Mrs James Vivian (Lulu Thorne Christian);female;34.0;true
-second;Gillespie, Mr William;male;34.0;false
-second;Hickman, Mr Leord Mark;male;34.0;false
-second;Kantor, Mr Sii;male;34.0;false
-second;Lemore, Mrs Amelia;female;34.0;true
-second;Ponesell, Mr Martin;male;34.0;false
-second;Renouf, Mr Peter Henry;male;34.0;false
-third;Danbom, Mr Ernst Gilbert;male;34.0;false
-third;Johanson, Mr Jakob Alfred;male;34.0;false
-first;Carlsson, Mr Frans Olof;male;33.0;false
-first;Mihan, Miss Daisy E;female;33.0;true
-first;Rosenbaum (Russell), Miss Edith Louise;female;33.0;true
-first;Ringhini, Mr Sante;male;33.0;false
-second;Hunt, Mr George Henry;male;33.0;false
-second;Quick, Mrs Frederick C (Jane Richards);female;33.0;true
-second;West, Mrs Edwy Arthur (Ada Mary);female;33.0;true
-third;Backstrom, Mrs Karl Alfred (Maria Mathilda Gustafsson);female;33.0;true
-third;Carlsson, Mr Frans Olof;male;33.0;false
-third;Carlsson, Mr Julius;male;33.0;false
-third;Dean, Mrs Bertram (Eva);female;33.0;true
-third;Goldsmith, Mr Frank John;male;33.0;false
-third;Johansson, Mr Gustaff Joel;male;33.0;false
-third;Johnson, Mr Malkolm Joackim;male;33.0;false
-first;Staehlin, Dr Max;male;32.0;true
-first;Keeping, Mr Edwin;male;32.0;false
-second;Angle, Mrs William A (Florence);female;32.0;true
-second;Beane, Mr Edward;male;32.0;true
-second;Doling, Mrs Ada;female;32.0;true
-second;Hickman, Mr Lewis;male;32.0;false
-second;sser (srallah), Mr Nicholas;male;32.0;false
-second;vratil, Mr Michel;male;32.0;false
-second;Pinsky, Miss Rosa;female;32.0;true
-second;Weisz, Mrs Leopold (Mathilde);female;32.0;true
-second;Wilhelms, Mr Charles;male;32.0;true
-third;Andersen, Mr Albert Karvin;male;32.0;false
-third;Backstrom, Mr Karl Alfred;male;32.0;false
-third;Bing, Mr Lee;male;32.0;true
-third;Bourke, Mrs John (Catherine);female;32.0;false
-third;Chip, Mr Chang;male;32.0;false
-third;Dooley, Mr Patrick;male;32.0;false
-third;Gronnestad, Mr Daniel Danielsen;male;32.0;false
-third;Johansson, Mr Karl Johan;male;32.0;true
-third;Jonsson, Mr Carl;male;32.0;true
-third;Jussila, Mr Erik;male;32.0;true
-third;Leinonen, Mr Antti Gustaf;male;32.0;false
-first;Chambers, Mrs Norman Campbell (Bertha Griggs);female;31.0;true
-first;Davidson, Mr Thornton;male;31.0;false
-first;Dick, Mr Albert Adrian;male;31.0;true
-first;Newell, Miss Madeleine;female;31.0;true
-first;Roebling, Mr Washington Augustus 2nd;male;31.0;false
-first;Tucker, Mr Gilbert Milligan, jr;male;31.0;true
-first;Wick, Miss Mary talie;female;31.0;true
-second;Cameron, Miss Clear;female;31.0;true
-second;Collyer, Mrs Harvey (Charlotte Tate);female;31.0;true
-second;Kvillner, Mr Johan Henrik Johannesson;male;31.0;false
-third;Conlin, Mr Thomas Henry;male;31.0;false
-third;Conghton, Mr Michael;male;31.0;false
-third;Van der Planke, Mr Jules;male;31.0;false
-third;Van der Planke, Mrs Jules;female;31.0;false
-first;Allison, Mr Hudson Joshua Creighton;male;30.0;false
-first;Bonnell, Miss Caroline;female;30.0;true
-first;Foreman, Mr Benjamin Laventall;male;30.0;false
-first;Loring, Mr Joseph Holland;male;30.0;false
-first;Maguire, Mr John Edward;male;30.0;false
-second;Abelson, Mr Samuel;male;30.0;false
-second;Chapman, Mr John Henry;male;30.0;false
-second;Chapman, Mrs John Henry (Elizabeth Lawry);female;30.0;false
-second;Corbett, Mrs Walter H (Irene Colvin);female;30.0;false
-second;Givard, Mr Hans Christensen;male;30.0;false
-second;Hale, Mr Regild;male;30.0;false
-second;Harris, Mr George;male;30.0;true
-second;Lahtinen, Rev William;male;30.0;false
-second;Matthews, Mr William John;male;30.0;false
-second;Meyer, Mr August;male;30.0;false
-second;Renouf, Mrs Peter Henry (Lillian Jefferys);female;30.0;true
-second;Siukonnen, Miss An;female;30.0;true
-second;Slayter, Miss Hilda Mary;female;30.0;true
-second;Veale, Mr James;male;30.0;false
-second;Ware, Mr John James;male;30.0;false
-second;Aldworth, Mr Charles Augustus;male;30.0;false
-third;Adahl, Mr Mauritz Nils Martin;male;30.0;false
-third;Cacic, Mr Maria;male;30.0;false
-third;Connolly, Miss Kate;female;30.0;false
-third;Corn, Mr Harry;male;30.0;false
-third;Daly, Miss Marcella;female;30.0;true
-third;De Mulder, Mr Theo;male;30.0;true
-third;Dowdell, Miss Elizabeth;female;30.0;true
-third;Karajic, Mr Milan;male;30.0;false
-third;Lindell, Mrs Edvard Bengtsson;female;30.0;false
-third;Van Impe, Mrs Jean Baptiste;female;30.0;false
-first;Allen, Miss Elisabeth Walton;female;29.0;true
-first;Long, Mr Milton Clyde;male;29.0;false
-second;Clarke, Mr Charles V;male;29.0;false
-second;Coleridge, Mr Regild Charles;male;29.0;false
-second;Nye, Mrs Elizabeth Ramell;female;29.0;true
-second;Turpin, Mr William John;male;29.0;false
-second;Wells, Mrs Arthur H (Addie Trevaskis);female;29.0;true
-third;Braund, Mr Lewis Richard;male;29.0;false
-third;Christmann, Mr Emil;male;29.0;false
-third;Daly, Mr Eugene;male;29.0;true
-third;Johansson, Mr Nils;male;29.0;false
-third;Larsson, Mr August Viktor;male;29.0;false
-third;Larsson, Mr Bengt Edvin;male;29.0;false
-third;Vendel, Mr Olof Wdvin;male;29.0;false
-third;Zimmerman, Leo;male;29.0;false
-first;Bjornstrm-Steffansson, Mr Mauritz Hakan;male;28.0;true
-first;Fortune, Miss Ethel Flora;female;28.0;true
-first;Meyer, Mr Edgar Joseph;male;28.0;false
-first;Ovies y Rodriguez, Mr Servando;male;28.0;false
-first;Sloper, Mr William Thompson;male;28.0;true
-second;Abelson, Mrs Samuel (An);female;28.0;true
-second;Banfield, Mr Frederick J;male;28.0;false
-second;Beauchamp, Mr Henry James;male;28.0;false
-second;Davis, Miss Mary;female;28.0;true
-second;del Carlo, Mr Sebastiano;male;28.0;false
-second;Harper, Rev John;male;28.0;false
-second;Parker, Mr Clifford R;male;28.0;false
-second;Reyldo, Mrs Encarcion;female;28.0;true
-second;Ware, Mrs John James (Florence Louise Long);female;28.0;true
-second;Weisz, Mr Leopold;male;28.0;false
-third;Carlsson, Mr August Sigfrid;male;28.0;false
-third;Carver, Mr Alfred John;male;28.0;false
-third;Danbom, Mrs Ernst Gilbert (An Sigrid Maria Brogren);female;28.0;false
-third;Gustafsson, Mr Johan Birger;male;28.0;false
-third;Hakkarainen, Mr Pekko Pietari;male;28.0;false
-third;Henriksson, Jenny Lovisa;female;28.0;false
-third;Van der Steen, Mr Leo Peter;male;28.0;false
-third;Vandewalle, Mr Nestor Cyriel;male;28.0;false
-third;Williams, Mr Leslie;male;28.0;false
-first;Chambers, Mr Norman Campbell;male;27.0;true
-first;Clark, Mr Walter Miller;male;27.0;false
-first;Daniel, Mr Robert Williams;male;27.0;true
-first;Davidson, Mrs Thornton (Orian Hays);female;27.0;true
-first;Douglas, Mrs Frederick Charles (Suzette Baxter);female;27.0;true
-first;Rothes, the Countess of (Noel Lucy Martha Dyer-Edwardes);female;27.0;true
-first;Widener, Mr Harry Elkins;male;27.0;false
-second;Bracken, Mr James H;male;27.0;false
-second;Collander, Mr Erik;male;27.0;false
-second;Mantvila, Rev Joseph;male;27.0;false
-second;Troutt, Miss Edwi Celia;female;27.0;true
-second;Turpin, Mrs William John (Dorothy Anne Woncott);female;27.0;false
-third;Attala (Kalil), Mr Solomon;male;27.0;false
-third;Barry, Miss Julia;female;27.0;false
-third;Cor, Mr Ivan;male;27.0;false
-third;Danoff, Mr Yoto;male;27.0;false
-third;Hedman, Mr Oscar;male;27.0;true
-third;Honkanen, Miss Elu;female;27.0;true
-third;Ilmakangas, Miss Ida Livija;female;27.0;false
-third;Jansen, Mr Carl Olof;male;27.0;true
-third;Jonsson, Nils Hilding;male;27.0;false
-third;Wirz, Mr Albert;male;27.0;false
-third;Yasbeck, Mr Antoni;male;27.0;false
-third;Zakarian, Mr Artun;male;27.0;false
-first;Behr, Mr Karl Howell;male;26.0;true
-first;Clark, Mrs Walter Miller (Virginia McDowell);female;26.0;true
-second;Botsford, Mr William Hull;male;26.0;false
-second;Caldwell, Mr Albert Francis;male;26.0;true
-second;Caldwell, Mrs Albert Francis (Sylvia Mae Harbaugh);female;26.0;true
-second;Gavey, Mr Lawrence;male;26.0;false
-second;Lahtinen, Mrs William (An Sylvan);female;26.0;false
-second;LaRoche, Mr Joseph;male;26.0;false
-second;Nesson, Mr Israel;male;26.0;false
-second;Wright, Miss Marion;female;26.0;true
-third;Adams, Mr John;male;26.0;false
-third;Andersson, Mr Johan Samuel;male;26.0;false
-third;Angheloff, Mr Minko;male;26.0;false
-third;Balkic, Mr Cerin;male;26.0;false
-third;Bengtsson, Mr John Viktor;male;26.0;false
-third;Bostandyeff, Mr Guentcho;male;26.0;false
-third;Bowen, Mr David;male;26.0;false
-third;Chronopoulos, Mr Apostolos;male;26.0;false
-third;Dean, Mr Bertram;male;26.0;false
-third;Dennis, Mr William;male;26.0;false
-third;Hansen, Mr Henrik Juul;male;26.0;false
-third;Heikkinen, Miss Lai;female;26.0;true
-third;Johansson, Oscar L;male;26.0;true
-third;Kink, Mrs Anton (Louise Heilmann);female;26.0;false
-third;Kink, Mr Vincenz;male;26.0;false
-third;Lang, Mr Fang;male;26.0;true
-third;Zakarian, Mr Maprieder;male;26.0;false
-first;Allison, Mrs Hudson JC (Bessie Waldo Daniels);female;25.0;false
-first;Birnbaum, Mr Jakob;male;25.0;false
-first;Bishop, Mr Dickinson H;male;25.0;true
-first;Harder, Mr George Achilles;male;25.0;true
-second;Bryhl, Mr Kurt Arnold Gottfrid;male;25.0;false
-second;Butler, Mr Regild Fenton;male;25.0;false
-second;Denbury, Mr Herbert;male;25.0;false
-second;Leyson, Mr Robert William Norman;male;25.0;false
-second;Richards, Mrs Sidney (Emily Hocking);female;25.0;true
-second;Shelley, Mrs William (Imanita);female;25.0;true
-second;Sobey, Mr Hayden;male;25.0;false
-second;Stokes, Mr Philip Joseph;male;25.0;false
-third;Abelseth, Mr Olaus;male;25.0;true
-third;Ali, Mr William;male;25.0;false
-third;Arnold, Mr Josef;male;25.0;false
-third;Dantchoff, Mr Khristo;male;25.0;false
-third;Delalic, Mr Regyo;male;25.0;false
-third;Gallagher, Mr Martin;male;25.0;false
-third;Ilmakangas, Miss Pieta Sofia;female;25.0;false
-third;Kiern, Mr John;male;25.0;false
-third;Krekorian, Mr Neshan;male;25.0;true
-third;Lindahl, Miss Agda V;female;25.0;false
-third;Tornquist, Mr William Henry;male;25.0;true
-first;Baxter, Mr Quigg Edmond;male;24.0;false
-first;Fortune, Miss Alice Elizabeth;female;24.0;true
-first;Hays, Miss Margaret Bechstein;female;24.0;true
-first;Smith, Mr Lucien Philip;male;24.0;false
-first;Snyder, Mr John Pillsbury;male;24.0;true
-second;Collett, Mr Sidney C Stuart;male;24.0;true
-second;Garside, Miss Ethel;female;24.0;true
-second;Giles, Mr Edgar;male;24.0;false
-second;Herman, Miss Alice;female;24.0;true
-second;Herman, Miss Kate;female;24.0;true
-second;Pain, Dr Alfred;male;24.0;false
-second;Brown, Miss Mildred;female;24.0;true
-third;Ahmed, Mr Ali;male;24.0;false
-third;Aronsson, Mr Ernst Axel Algot;male;24.0;false
-third;Carlsson, Mr Carl Robert;male;24.0;false
-third;Celotti, Mr Francesco;male;24.0;false
-third;Colbert, Mr Patrick;male;24.0;false
-third;Coleff, Mr Fotio;male;24.0;false
-third;Davies, Mr Alfred;male;24.0;false
-third;Doyle, Miss Elizabeth;female;24.0;false
-third;Driscoll, Miss Bridget;female;24.0;true
-third;Duquemin, Mr Joseph;male;24.0;true
-third;Haas, Miss Aloisia;female;24.0;false
-third;Hakkarainen, Mrs Pekko Pietari;female;24.0;true
-third;Johnson, Mrs Oscar W;female;24.0;false
-third;Kennedy, Mr John;male;24.0;false
-third;Lievens, Mr Rene;male;24.0;false
-first;Earnshaw, Mrs Boulton (Olive Potter);female;23.0;true
-first;Fortune, Miss Mabel;female;23.0;true
-first;Greenfield, Mr William Bertram;male;23.0;true
-first;Newell, Miss Marjorie;female;23.0;true
-first;Snyder, Mrs John Pillsbury (Nelle Stevenson);female;23.0;true
-second;Baimbrigge, Mr Charles R;male;23.0;false
-second;Berriman, Mr William S;male;23.0;false
-second;Eitemiller, Mr George Floyd;male;23.0;false
-second;Hamalainen, Mrs William (An);female;23.0;true
-second;Hocking, Mr George;male;23.0;false
-second;Jerwan, Mrs Amin S (Marie Thuillard);female;23.0;true
-second;Richard, Mr Emil;male;23.0;false
-second;Ware, Mr William J;male;23.0;false
-third;Alexander, Mr William;male;23.0;false
-third;Asplund, Mr John Charles;male;23.0;true
-third;Assam, Mr Ali;male;23.0;false
-third;Augustsson, Mr Albert;male;23.0;false
-third;Dennis, Mr Samuel;male;23.0;false
-third;Drapkin, Miss Jennie;female;23.0;true
-third;Dyker, Mr Adolf Fredrik;male;23.0;false
-third;Heininen, Miss Wendla Maria;female;23.0;false
-third;Karlsson, Mr Julius Konrad Eugen;male;23.0;false
-third;Melkebuk, Mrs Philemon;female;23.0;false
-first;Bowerman, Miss Elsie Edith;female;22.0;true
-first;Frolicher, Miss Marguerite;female;22.0;true
-first;Gibson, Miss Dorothy;female;22.0;true
-first;Ostby, Miss Helen Raghnild;female;22.0;true
-first;Payne, Mr Vivian Ponsonby;male;22.0;false
-second;Cook, Mrs Sele Rogers;female;22.0;false
-second;del Carlo, Mrs Sebastiano (Argenia Genovese);female;22.0;true
-second;Giles, Mr Ralph;male;22.0;false
-second;Karnes, Mrs J Frank (Claire Bennett);female;22.0;false
-second;LaRoche, Mrs Joseph (Juliet);female;22.0;true
-second;Oxenham, Mr Percy Thomas;male;22.0;true
-second;Smith (Schmidt), Mr Augustus;male;22.0;false
-second;Troupiansky, Mr Moses Aaron;male;22.0;false
-second;Waelens, Mr Achille;male;22.0;false
-third;Barton, Mr David;male;22.0;false
-third;Berglund, Mr Karl Ivar Sven;male;22.0;false
-third;Braund, Mr Owen Harris;male;22.0;false
-third;Brobek, Mr Karl Rudolf;male;22.0;false
-third;Connolly, Miss Kate;female;22.0;true
-third;Dahlberg, Miss Gerda Ulrika;female;22.0;false
-third;Davies, Mr Evan;male;22.0;false
-third;Dyker, Mrs Adolf Fredrik (An Elizabeth Judith Andersson);female;22.0;true
-third;Gilinski, Mr Leslie;male;22.0;false
-third;Hellstrom, Hilda Maria;female;22.0;true
-third;Hirvonen, Mrs Alexander;female;22.0;true
-third;Johansson, Mr Erik;male;22.0;false
-third;Karlsson, Mr Nils August;male;22.0;false
-third;Kiern, Mr Philip;male;22.0;false
-third;Kilgannon, Mr Thomas;male;22.0;false
-third;Kink, Miss Maria;female;22.0;false
-third;Landegren, Miss Aurora Adelia;female;22.0;true
-third;Larsson-Rondberg, Mr Edvard;male;22.0;false
-third;Vartunian, Mr David;male;22.0;true
-third;Vonk, Mr Jenko;male;22.0;false
-third;Zenni, Mr Philip;male;22.0;false
-first;Harder, Mrs George Achilles (Dorothy Ann);female;21.0;true
-first;Longley, Miss Gretchen Fiske;female;21.0;true
-first;Ryerson, Miss Susan (Suzette) Parker;female;21.0;true
-first;White, Mr Richard Frasar;male;21.0;false
-first;Williams, Mr Richard Norris II;male;21.0;true
-second;Davies, Mr Charles Henry;male;21.0;false
-second;Ender, Mr Ingvar;male;21.0;false
-second;Giles, Mr Frederick;male;21.0;false
-second;Hickman, Mr Stanley George;male;21.0;false
-second;Hocking, Miss Ellen (Nellie);female;21.0;true
-second;Hood, Mr Ambrose, Jr;male;21.0;false
-second;Phillips, Mr Robert;male;21.0;false
-second;Rugg, Miss Emily;female;21.0;true
-third;Birkeland, Mr Hans;male;21.0;false
-third;Buckley, Mr Daniel;male;21.0;true
-third;Cavan, Miss Mary;female;21.0;false
-third;Cavan, Mr Patrick;male;21.0;false
-third;Cann, Mr Ernest;male;21.0;false
-third;Chartens, Mr David;male;21.0;false
-third;Davies, Mr John;male;21.0;false
-third;Ford, Miss Dooli Margaret;female;21.0;false
-third;Hansen, Mr Henry Damsgaard;male;21.0;false
-third;Jussila, Miss Ai Maria;female;21.0;false
-third;Kalvig, Mr Johannes K Halverson;male;21.0;false
-third;Karlsson, Mr Eir Gervasius;male;21.0;true
-third;Kelly, Miss An Kate;female;21.0;true
-third;Kelly, Miss Mary;female;21.0;true
-third;Lemom, Mr Denis;male;21.0;false
-third;Lemon, Miss Mary;female;21.0;false
-third;Salander, Mr Karl Johan;male;21.0;false
-third;Windelov, Mr Eir;male;21.0;false
-first;Willard, Miss Constance;female;20.0;true
-second;Bryhl, Miss Dagmar;female;20.0;true
-second;Cotterill, Mr Harry;male;20.0;false
-second;Maybery, Mr Frank H;male;20.0;false
-second;Nourney, Mr Alfred (aka Baron von Drachstedt);male;20.0;true
-second;Pengelly, Mr Frederick;male;20.0;false
-second;Sincock, Miss Maude;female;20.0;true
-third;Abrahamsson, Mr August;male;20.0;true
-third;Alhomaki, Mr Ilmari Rudolf;male;20.0;false
-third;Andersen, Mr Thor Olsvigen;male;20.0;false
-third;Andreasson, Mr Paul Edvin;male;20.0;false
-third;Baccos, Mr Rafoul;male;20.0;false
-third;Betros, Mr Tannous;male;20.0;false
-third;Braf, Miss Elin Ester Maria;female;20.0;false
-third;Buckley, Miss Katherine;female;20.0;false
-third;Coelho, Mr Domingos Ferndes;male;20.0;false
-third;Gustafsson, Mr Alfred Ossian;male;20.0;false
-third;Hampe, Mr Leon;male;20.0;false
-third;Jensen, Mr Hans Peder;male;20.0;false
-third;Jussila, Miss Katrii;female;20.0;false
-third;Keane, Mr Andrew;male;20.0;false
-third;Lane, Mr Patrick;male;20.0;false
-third;Lindqvist, Eino William;male;20.0;true
-first;Astor, Mrs John Jacob (Madeleine Talmadge Force);female;19.0;true
-first;Bishop, Mrs Dickinson H (Helen Walton);female;19.0;true
-first;Fortune, Mr Charles Alexander;male;19.0;false
-first;Graham, Miss Margaret Edith;female;19.0;true
-first;Newsom, Miss Helen Monypeny;female;19.0;true
-second;Beane, Mrs Edward (Ethel Clarke);female;19.0;true
-second;Bentham, Miss Lilian W;female;19.0;true
-second;Carbines, Mr William;male;19.0;false
-second;Fahlstrom, Mr Arne Jos;male;19.0;false
-second;Marshall, Mrs Kate Louise Phillips;female;19.0;true
-second;Mellor, Mr William John;male;19.0;true
-second;Nicholls, Mr Joseph Charles;male;19.0;false
-third;Beavan, Mr William Thomas;male;19.0;false
-third;Burke, Mr Jeremiah;male;19.0;false
-third;Cohen, Mr Gurshon (Gus);male;19.0;true
-third;Cor, Mr Ludovik;male;19.0;false
-third;Crease, Mr Ernest James;male;19.0;false
-third;Dakic, Mr Branko;male;19.0;false
-third;Devaney, Miss Margaret;female;19.0;true
-third;Dorkings, Mr Edward Arthur;male;19.0;true
-third;Gustafsson, Mr Karl Gideon;male;19.0;false
-third;Jensen, Miss Carla Christine;female;19.0;true
-third;Johnson, Mr William Cahoone Jr;male;19.0;false
-first;Pesco, Mr Victor de Satode;male;18.0;false
-first;Ryerson, Miss Emily Borie;female;18.0;true
-first;Smith, Mrs Lucien Philip (Mary Eloise Hughes;female;18.0;true
-first;Taussig, Miss Ruth;female;18.0;true
-second;Andrew, Mr Edgar Samuel;male;18.0;false
-second;Bailey, Mr Percy Andrew;male;18.0;false
-second;Deacon, Mr Percy;male;18.0;false
-second;Dibden, Mr William;male;18.0;false
-second;Doling, Miss Elsie;female;18.0;true
-second;Hiltunen, Miss Marta;female;18.0;false
-second;sser (srallah), Mrs Nicholas;female;18.0;true
-second;Silven, Miss Lyyli;female;18.0;true
-second;Swane, Mr George;male;18.0;false
-third;Abraham, Mrs Joseph (Sophie Easu);female;18.0;true
-third;Aks, Mrs Sam (Leah Rosen);female;18.0;true
-third;Arnold, Mrs Josef (Josephine Frank);female;18.0;false
-third;Badman, Miss Emily Louisa;female;18.0;true
-third;Barbara, Miss Saude;female;18.0;false
-third;Bjorklund, Ernst Herbert;male;18.0;false
-third;Bradley, Miss Bridget Delia;female;18.0;true
-third;Burns, Miss Mary Delia;female;18.0;false
-third;Cacic, Mr Grego;male;18.0;false
-third;Chronopoulos, Mr Demetrios;male;18.0;false
-third;Edvardsson, Mr Gustaf Hjalmar;male;18.0;false
-third;Ford, Mr Edward Watson;male;18.0;false
-third;Hegarty, Miss Nora;female;18.0;false
-third;Klasen, Mr Klas Albin;male;18.0;false
-third;Turja, Miss An Sofia;female;18.0;true
-third;Van der Planke, Miss Augusta;female;18.0;false
-third;Wiklund, Mr Jacob Alfred;male;18.0;false
-first;Dick, Mrs Albert Adrian Vera Gillespie;female;17.0;true
-first;Pesco, Mrs Victor de Satode (Josefa de Soto);female;17.0;true
-first;Thayer, Mr John Borland, jr;male;17.0;true
-second;Ilett, Miss Bertha;female;17.0;true
-third;Allum, Mr Owen George;male;17.0;false
-third;Andersson, Miss Er;female;17.0;true
-third;Attalah, Miss Malaka;female;17.0;false
-third;Calic, Mr Peter;male;17.0;false
-third;Cribb, Miss Laura Alice;female;17.0;true
-third;Davies, Mr Joseph;male;17.0;false
-third;Hagardon, Miss Kate;female;17.0;false
-third;Jensen, Mr Svend Lauritz;male;17.0;false
-third;Kallio, Mr Nikolai Erland;male;17.0;false
-first;Hippach, Miss Jean Gertrude;female;16.0;true
-first;Lines, Miss Mary Conover;female;16.0;true
-second;Gaskell, Mr Alfred;male;16.0;false
-third;Abbott, Mr Rossmore Edward;male;16.0;false
-third;Abelseth, Miss An Karen;female;16.0;true
-third;Carr, Miss Helen;female;16.0;true
-third;Eklund, Mr Hans Linus;male;16.0;false
-third;Ford, Mr Neil Watson;male;16.0;false
-third;Gilgh, Miss Katie;female;16.0;true
-third;Goodwin, Miss Lillian A;female;16.0;false
-first;Madill, Miss Georgette Alexandra;female;15.0;true
-second;Brown, Miss Edith E;female;15.0;true
-third;Banoura, Miss Ayout;female;15.0;true
-third;Van der Planke, Mr Leon;male;15.0;false
-third;Yasbeck, Mrs Antoni;female;15.0;true
-first;Carter, Miss Lucile Polk;female;14.0;true
-second;Sweet, Mr George;male;14.0;false
-third;Goodwin, Mr Charles E;male;14.0;false
-third;Vestrom, Miss Hulda Amanda Adolfi;female;14.0;false
-first;Ryerson, Master John Borie;male;13.0;true
-second;Mellenger, Miss Madeleine Violet;female;13.0;true
-third;Abbott, Master Eugene Joseph;male;13.0;false
-third;Asplund, Master Filip Oscar;male;13.0;false
-second;Becker, Miss Ruth Elizabeth;female;12.0;true
-second;Watt, Miss Bertha;female;12.0;true
-first;Carter, Master William T II;male;11.0;true
-third;Andersson, Miss Sigrid Elizabeth;female;11.0;false
-third;Goodwin, Master William F;male;11.0;false
-third;Goodwin, Miss Jessie A;female;10.0;false
-third;Van Impe, Miss Catharine;female;10.0;false
-third;Andersson, Miss Ingeborg Constancia;female;9.0;false
-third;Asplund, Master Clarence Gustaf Hugo;male;9.0;false
-third;Boulos, Miss Laura;female;9.0;false
-third;Coutts, Master William Leslie;male;9.0;true
-third;Ford, Miss Maggie;female;9.0;false
-third;Goldsmith, Master Frank John William;male;9.0;true
-third;Goodwin, Master Harold V;male;9.0;false
-second;Collyer, Miss Marjorie;female;8.0;true
-second;Davis, Master John Morgan;male;8.0;true
-second;Drew, Master Marshall Brines;male;8.0;true
-second;Quick, Miss Winifred Vera;female;8.0;true
-second;Hart, Miss Eva Miriam;female;7.0;true
-first;Spedden, Master Robert Douglas;male;6.0;true
-second;Harper, Miss Ni;female;6.0;true
-third;Andersson, Miss Ebba Iris;female;6.0;false
-third;Boulos, Master Akar;male;6.0;false
-third;Goodwin, Master Sidney L;male;6.0;false
-third;Asplund, Master Carl Edgar;male;5.0;false
-third;Asplund, Miss Lillian Gertrud;female;5.0;true
-third;Emanuel, Miss Virginia Ethel;female;5.0;true
-first;Dodge, Master Washington;male;4.0;true
-second;Becker, Miss Marion Louise;female;4.0;true
-second;Wells, Miss Joan;female;4.0;true
-third;Andersson, Master Sigvard Harald Elias;male;4.0;false
-third;Johnson, Master Harold Theodor;male;4.0;true
-third;Karun, Miss An Mary;female;4.0;true
-third;Kink, Miss Louise Gretchen;female;4.0;true
-second;LaRoche, Miss Simonne;female;3.0;true
-second;vratil, Master Michel M;male;3.0;true
-second;Richards, Master William Rowe;male;3.0;true
-third;Aspland, Master Edvin Rojj Felix;male;3.0;true
-third;Baclini, Miss Eugenie;female;3.0;true
-third;Coutts, Master Neville;male;3.0;true
-first;Allison, Miss Helen Loraine;female;2.0;false
-second;Mallet, Master Andre;male;2.0;true
-second;vratil, Master Edmond Roger;male;2.0;true
-second;Quick, Miss Phyllis May;female;2.0;true
-second;Wells, Master Ralph Lester;male;2.0;true
-third;Andersson, Miss Ellis An Maria;female;2.0;false
-third;Hirvonen, Miss Hildur E;female;2.0;false
-third;Klasen, Miss Gertrud Emilia;female;1.5;false
-third;Sandstrom, Miss Beatrice Irene;female;1.5;false
-second;Becker, Master Richard F;male;1.0;true
-second;Hamalainen, Master Viljo;male;1.0;true
-second;LaRoche, Miss Louise;female;1.0;true
-third;Dean, Master Bertram Vere;male;1.0;true
-third;Johnson, Miss Eleanor Ileen;female;1.0;true
-first;Allison, Master Hudson Trevor;male;0.92;true
-second;Caldwell, Master Alden Gates;male;0.83;true
-third;Aks, Master Philip;male;0.83;true
-second;Richards, Master George Sidney;male;0.8;true
-third;Danbom, Master Gilbert Sigvard Emanuel;male;0.33;false
-third;Dean, Miss Elizabeth Gladys (Millve);female;0.17;true
-first;Aubert, Mrs Leontine Pauline;female;-1.0;true
-first;Barkworth, Mr Algernon H;male;-1.0;true
-first;Baumann, Mr John D;male;-1.0;false
-first;Borebank, Mr John James;male;-1.0;false
-first;Bradley, Mr George;male;-1.0;true
-first;Brewe, Dr Arthur Jackson;male;-1.0;false
-first;Calderhead, Mr Edward P;male;-1.0;true
-first;Carrau, Mr Francisco M;male;-1.0;false
-first;Carrau, Mr Jose Pedro;male;-1.0;false
-first;Cassebeer, Mrs Henry Arthur jr (Genevieve Fosdick);female;-1.0;true
-first;Cavendish, Mrs Tyrell William Julia Florence Siegel;female;-1.0;true
-first;Cherry, Miss Gladys;female;-1.0;true
-first;Chevre, Mr Paul;male;-1.0;true
-first;Chibll (Bowerman), Mrs Edith Martha;female;-1.0;true
-first;Chisholm, Mr Roderick Robert;male;-1.0;false
-first;Clifford, Mr George Quincy;male;-1.0;false
-first;Colley, Mr Edward Pomeroy;male;-1.0;false
-first;Crafton, Mr John Bertram;male;-1.0;false
-first;Daly, Mr Peter Denis;male;-1.0;true
-first;de Villiers, Madame Berthe;female;-1.0;true
-first;Dodge, Dr Washington;male;-1.0;true
-first;Dodge, Mrs Washington (Ruth Vidaver);female;-1.0;true
-first;Flegenheim, Mrs Alfred (Antoinette);female;-1.0;true
-first;Flynn, Mr John Irving;male;-1.0;true
-first;Franklin, Mr Thomas Parham;male;-1.0;false
-first;Frauenthal, Mrs Henry William (Clara Heinsheimer);female;-1.0;true
-first;Goldenberg, Mrs Samuel L (Edwiga Grabowsko);female;-1.0;true
-first;Hawksford, Mr Walter James;male;-1.0;true
-first;Head, Mr Christopher;male;-1.0;false
-first;Hilliard, Mr Herbert Henry;male;-1.0;false
-first;Hipkins, Mr William Edward;male;-1.0;false
-first;Hoyt, Mr William F;male;-1.0;false
-first;Julian, Mr Henry Forbes;male;-1.0;false
-first;Kenyon, Mrs Frederick R (Marion);female;-1.0;true
-first;Klaber, Mr Herman;male;-1.0;false
-first;Leader, Dr Alice Farnham;female;-1.0;true
-first;Lewy, Mr Ervin G;male;-1.0;false
-first;Lingrey, Mr Edward;male;-1.0;false
-first;Marechal, Mr Pierre;male;-1.0;true
-first;Marvin, Mr Daniel Warner;male;-1.0;false
-first;Marvin, Mrs Daniel Warner (Mary Graham Carmichael Farquarson);female;-1.0;true
-first;Meyer, Mrs Edgar Joseph (Leila Saks);female;-1.0;true
-first;Mock, Mr Philip E;male;-1.0;true
-first;Omont, Mr A Fernd;male;-1.0;true
-first;Parr, Mr William Henry Marsh;male;-1.0;false
-first;Partner, Mr Austin;male;-1.0;false
-first;Pears, Mr Thomas;male;-1.0;false
-first;Pears, Mrs Thomas (Edith);female;-1.0;true
-first;Reuchlin, Jonkheer John George;male;-1.0;false
-first;Rheims, Mr George Lucien;male;-1.0;true
-first;Romaine, Mr Charles Hallace;male;-1.0;true
-first;Rood, Mr Hugh R;male;-1.0;false
-first;Ross, Mr John Hugo;male;-1.0;false
-first;Rowe, Mr Alfred G;male;-1.0;false
-first;Saalfeld, Mr Adolphe;male;-1.0;true
-first;Salomon, Mr Abraham L;male;-1.0;true
-first;Schabert, Mrs Paul (Emma Mock);female;-1.0;true
-first;Smith, Mr Richard William;male;-1.0;false
-first;Spencer, Mrs William Augustus (Marie Eugenie);female;-1.0;true
-first;Stewart, Mr Albert A;male;-1.0;false
-first;Taylor, Mrs Elmer Zebley (Juliet Cummins Wright);female;-1.0;true
-first;Thorne, Mrs Gertrude Maybelle;female;-1.0;true
-first;Uruchurtu, Mr Manuel E;male;-1.0;false
-first;Williams, Mr Fletcher Lambert;male;-1.0;false
-first;Woolner, Mr Hugh;male;-1.0;true
-first;Wright, Mr George;male;-1.0;false
-first;Barber, Ms;female;-1.0;true
-first;Bazzani, Ms Albi;female;-1.0;true
-first;Bidois, Miss Rosalie;female;-1.0;true
-first;Bird, Ms Ellen;female;-1.0;true
-first;Bissetti, Ms Amelia;female;-1.0;true
-first;Burns, Ms Elizabeth Margaret;female;-1.0;true
-first;Chaudanson, Ms         Victorine;female;-1.0;true
-first;Cleaver, Ms Alice;female;-1.0;true
-first;Daniels, Ms Sarah;female;-1.0;true
-first;Endres, Miss Caroline Louise;female;-1.0;true
-first;Farthing, Mr John;male;-1.0;false
-first;Fleming, Ms Margaret;female;-1.0;false
-first;Francatelli, Ms Laura Mabel;female;-1.0;true
-first;Fry, Mr Richard;male;-1.0;false
-first;Geiger, Miss Emily;female;-1.0;true
-first;Giglio, Mr Victor;male;-1.0;false
-first;Harrington, Mr Charles;male;-1.0;false
-first;Hassah, Mr Hamad;male;-1.0;false
-first;Icabad (Icabod), Ms;female;-1.0;true
-first;Kenchen, Ms Amelia;female;-1.0;true
-first;LeRoy, Miss Berthe;female;-1.0;true
-first;Lesneur, Mr Gustave;male;-1.0;false
-first;Maloney, Ms;female;-1.0;true
-first;Oliva, Mlle;female;-1.0;false
-first;Pericault, Ms;female;-1.0;true
-first;Robbins, Mr Victor;male;-1.0;false
-first;Segesser, Mlle Emma;female;-1.0;true
-first;Seredeca, Ms;female;-1.0;false
-first;Ward, Ms An;female;-1.0;false
-first;Wilson, Ms Helen;female;-1.0;true
-second;Andrew, Mr Frank;male;-1.0;false
-second;Bowenur, Mr Solomon;male;-1.0;false
-second;Byles, Rev Thomas Roussel D;male;-1.0;false
-second;Campbell, Mr William;male;-1.0;false
-second;Christy, Mrs Alice Frances;female;-1.0;true
-second;Christy, Miss Julie;female;-1.0;true
-second;Clarke, Mrs Charles V (Ada Maria);female;-1.0;true
-second;Corey, Mrs Percy C (Mary Phyllis Elizabeth Miller);female;-1.0;false
-second;Cunningham, Mr Alfred Fleming;male;-1.0;false
-second;de Brito, Mr Jose Joaquim;male;-1.0;false
-second;Downton (?Douton), Mr William James;male;-1.0;false
-second;Duran y More, Miss Asuncion;female;-1.0;true
-second;Duran y More, Miss Florenti;female;-1.0;true
-second;Faunthorpe, Mr Harry;male;-1.0;false
-second;Faunthorpe, Mrs Lizzie (see Wilkinson, E);female;-1.0;true
-second;Fillbrook, Mr Charles;male;-1.0;false
-second;Frost, Mr Anthony (Archie) W;male;-1.0;false
-second;Gill, Mr John W;male;-1.0;false
-second;Harris, Mr Walter;male;-1.0;false
-second;Hewlett, Mrs Mary D;female;-1.0;true
-second;Hocking, Mr Samuel James;male;-1.0;false
-second;Howard, Mr Benjamin;male;-1.0;false
-second;Howard, Mrs Benjamin (Ellen Truelove);female;-1.0;false
-null;Jacobsohn Mr Samuel;male;-1.0;false
-second;Jacobsohn, Mrs Sidney Samuel (Amy Frances Christy);female;-1.0;true
-second;Jarvis, Mr John Denzil;male;-1.0;false
-second;Jefferys, Mr Clifford;male;-1.0;false
-second;Jefferys, Mr Ernest;male;-1.0;false
-second;Jenkin, Mr Stephen Curnow;male;-1.0;false
-second;Kantor, Mrs Sii (Miriam Sternim);female;-1.0;true
-second;Keane, Mr Daniel;male;-1.0;false
-second;Keane, Miss Nora A;female;-1.0;true
-second;Kirkland, Rev Charles Leord;male;-1.0;false
-second;Knight, Mr Robert;male;-1.0;false
-second;Lamb, Mr John James;male;-1.0;false
-second;Lehmann, Miss Bertha;female;-1.0;true
-second;Leitch, Miss Jessie;female;-1.0;true
-second;Levy, Mr Rene Jacques;male;-1.0;false
-second;Lingan, Mr John;male;-1.0;false
-second;Louch, Mrs Charles Alexander (Alice Adelaide);female;-1.0;true
-second;Malachard, Mr Noel;male;-1.0;false
-second;Mallet, Mr Albert;male;-1.0;false
-second;Mallet, Mrs Albert (Antoinette);female;-1.0;true
-second;Mangiavacchi, Mr Serafino Emilio;male;-1.0;false
-second;McCrie, Mr James Matthew;male;-1.0;false
-second;Morley, Mr William;male;-1.0;false
-second;Mudd, Mr Thomas C;male;-1.0;false
-second;Norman, Mr Robert Douglas;male;-1.0;false
-second;Padro y Manent, Mr Julian;male;-1.0;true
-second;Pallas y Castello, Mr Emilio;male;-1.0;true
-second;Parkes, Mr Francis (Frank);male;-1.0;false
-second;Portaluppi, Mr Emilio;male;-1.0;true
-second;Pulbaum, Mr Frank;male;-1.0;false
-second;Rogers, Mr Harry;male;-1.0;false
-second;Sedgwick, Mr Charles Frederick Waddington;male;-1.0;false
-second;Sharp, Mr Percival;male;-1.0;false
-second;Smith, Miss Marion;female;-1.0;true
-second;Trout, Mrs William H (Jessie L);female;-1.0;true
-second;Watson, Mr Ennis Hastings;male;-1.0;false
-second;West, Miss Barbara J;female;-1.0;true
-second;West, Miss Constance Mirium;female;-1.0;true
-second;Wheadon, Mr Edward;male;-1.0;false
-second;Wheeler, Mr Edwin;male;-1.0;false
-second;Wheeler, Mr Frederick;male;-1.0;false
-second;Wilkinson, Mrs Elizabeth Anne;female;-1.0;true
-second;Williams, Mr Charles Eugene;male;-1.0;true
-second;Yrois, Miss Henriette;female;-1.0;false
-second;Pernot, Mr Rene;male;-1.0;false
-third;Assaf, Mr Gerios;male;-1.0;false
-third;Baclini, Miss Helene;female;-1.0;true
-third;Baclini, Miss Maria;female;-1.0;true
-third;Baclini, Mrs Solomon (Latifa);female;-1.0;true
-third;Boulos, Mr Han;male;-1.0;false
-third;Boulos, Mrs Joseph (Sulta);female;-1.0;false
-third;Bourke, Miss Mary;female;-1.0;false
-third;Brahim, Mr Youssef;male;-1.0;false
-third;Cacic, Mr Manda;male;-1.0;false
-third;Caram (Kareem), Mr Joseph;male;-1.0;false
-third;Caram (Kareem), Mrs Joseph (Maria Elias);female;-1.0;false
-third;Cassem, Mr ssef Belmenly;male;-1.0;true
-third;Chebab, Mr Emir Farres;male;-1.0;false
-third;Connors, Mr Patrick;male;-1.0;false
-third;Daher, Mr Tannous;male;-1.0;false
-third;Davison, Mr Thomas Henry;male;-1.0;false
-third;Davison, Mrs Thomas Henry (Mary Finck);female;-1.0;true
-third;Denkoff, Mr Mito;male;-1.0;false
-third;Dibo, Mr Elias;male;-1.0;false
-third;Drazonovic, Mr Josef;male;-1.0;false
-third;Econovic, Mr Joso;male;-1.0;false
-third;Elias, Mr Elias;male;-1.0;false
-third;Elias, Mr John;male;-1.0;false
-third;Elias, Mr Joseph;male;-1.0;false
-third;Emmeth, Mr Thomas;male;-1.0;false
-third;Everett, Thomas James;male;-1.0;false
-third;Farrell, Mr James;male;-1.0;false
-third;Finoli, Mr Luigi;male;-1.0;true
-third;Fischer, Mr Eberhard Telander;male;-1.0;false
-third;Flynn, Mr James;male;-1.0;false
-third;Flynn, Mr John;male;-1.0;false
-third;Foley, Mr Joseph;male;-1.0;false
-third;Foley, Mr William;male;-1.0;false
-third;Foo, Mr Choong;male;-1.0;true
-third;Ford, Mr Arthur;male;-1.0;false
-third;Fox, Mr Patrick;male;-1.0;false
-third;Franklin, Mr Charles;male;-1.0;false
-third;Garfirth, Mr John;male;-1.0;false
-third;Glynn, Miss Mary Agatha;female;-1.0;true
-third;Goldsmith, Mrs Frank John (Emily A Brown);female;-1.0;true
-third;Guest, Mr Robert;male;-1.0;false
-third;Hagland, Mr Ingvald Olsen;male;-1.0;false
-third;Hagland, Mr Konrad Mathias Reiersen;male;-1.0;false
-third;Harknett, Miss Alice;female;-1.0;false
-third;Harmer, Mr Abraham;male;-1.0;false
-third;Hart, Mr Henry;male;-1.0;false
-third;Hassan, Mr M Houssein;male;-1.0;false
-third;Healy, Miss Nora;female;-1.0;false
-third;Hee, Mr Ling;male;-1.0;false
-third;Hemming, Miss Nora;female;-1.0;false
-third;Hendekovic, Mr Igz;male;-1.0;false
-third;Henery, Delia;female;-1.0;false
-third;Holthen, Mr Johan Martin;male;-1.0;false
-third;Horgan, Mr John;male;-1.0;false
-third;Howard, Miss May;female;-1.0;true
-third;Hyman, Mr Abraham;male;-1.0;true
-third;Ilieff, Mr Ylio;male;-1.0;false
-third;Ivanoff, Mr Konio;male;-1.0;false
-third;Jardin, Mr Jose Netto;male;-1.0;false
-third;Jermyn, Miss Annie;female;-1.0;true
-third;Johannesen-Bratthammer, Mr Bernt;male;-1.0;false
-third;Johnston, Mr Andrew G;male;-1.0;false
-third;Johnston, Mrs Andrew G;female;-1.0;false
-third;Johnston, Miss Catherine H;female;-1.0;false
-third;Johnston, Master William A;male;-1.0;false
-third;Jonkoff, Mr Lazor;male;-1.0;false
-third;Kassem, Mr Fared;male;-1.0;false
-third;Keefe, Mr Arthur;male;-1.0;false
-third;Kekic, Mr Tido;male;-1.0;false
-third;Khalil, Mr Betros;male;-1.0;false
-third;Khalil, Mrs Betros;female;-1.0;false
-third;Khalil, Mr Saad;male;-1.0;false
-third;Kraeff, Mr Theodor;male;-1.0;false
-third;Lahowd, Mr Sarkis;male;-1.0;false
-third;Laleff, Mr Kristo;male;-1.0;false
-third;Lam, Mr Ali;male;-1.0;true
-third;Lam, Mr Len;male;-1.0;false
-third;Leeni, Mr Fahim;male;-1.0;true
-third;Lefebre, Mrs Frank;female;-1.0;false
-third;Lefebre, Master Henry;male;-1.0;false
-third;Lefebre, Miss Ida;female;-1.0;false
-third;Lefebre, Miss Jeannie;female;-1.0;false
-third;Lefebre, Miss Mathilde;female;-1.0;false
-third;Lemberopolous, Mr Peter L;male;-1.0;false
-third;Linehan, Mr Michael;male;-1.0;false
-third;Ling, Mr Lee;male;-1.0;false
-third;Lithman, Mr Simon;male;-1.0;false
-third;Lobb, Mr William Arthur;male;-1.0;false
-third;Lobb, Mrs William Arthur;female;-1.0;false
-third;Lockyer, Mr Edward;male;-1.0;false
-third;Lovell, Mr John;male;-1.0;false
-third;Lulich, Mr Nicola;male;-1.0;true
-third;Lundahl, Mr Johan;male;-1.0;false
-third;Lundin, Miss Olga Elida;female;-1.0;true
-third;Lundstrom, Mr Thure Edvin;male;-1.0;false
-third;Lyntakoff, Mr Stanko;male;-1.0;false
-third;MacKay, Mr George William;male;-1.0;false
-third;Madigan, Miss Margaret;female;-1.0;true
-third;Madsen, Mr Frithiof;male;-1.0;false
-third;Maenpaa, Mr Matti Alexanteri;male;-1.0;false
-third;Mahon, Miss Delia;female;-1.0;false
-third;Maisner, Mr Simon;male;-1.0;false
-third;Makinen, Mr Kalle Edvard;male;-1.0;false
-third;Mamee, Mr Han;male;-1.0;true
-third;Mangan, Miss Mary;female;-1.0;false
-third;Mannion, Miss Margareth;female;-1.0;true
-third;Mansour, Mr Han;male;-1.0;false
-third;Mardirosian, Mr Sarkis;male;-1.0;false
-third;Marinko, Mr Dmitri;male;-1.0;false
-third;Markim, Mr Johann;male;-1.0;false
-third;Markoff, Mr Marin;male;-1.0;false
-third;Masselmany, Mrs Fatima;female;-1.0;true
-third;Matinoff, Mr Nicola;male;-1.0;false
-third;McCarthy, Miss Katie;female;-1.0;true
-third;McCormack, Mr Thomas J;male;-1.0;false
-third;McCoy, Miss Agnes;female;-1.0;false
-third;McCoy, Miss Alice;female;-1.0;false
-third;McCoy, Mr Berrd;male;-1.0;false
-third;McDermott, Miss Delia;female;-1.0;false
-third;McElroy, Mr Michael;male;-1.0;false
-third;McGovern, Mrs Hugh;female;-1.0;true
-third;McGowan, Miss An;female;-1.0;false
-third;McGowan, Miss Katherine;female;-1.0;false
-third;McMahon, Mr Martin;male;-1.0;false
-third;Mcmee, Mr Neal;male;-1.0;false
-third;Mcmee, Mrs Neal;female;-1.0;false
-third;Meanwell, Miss Marion Ogden;female;-1.0;false
-third;Mechen, Mr John;male;-1.0;false
-third;Meek, Mrs Thomas;female;-1.0;false
-third;Meo, Mr Alfonso;male;-1.0;false
-third;Midtsjo, Mr Karl Albert;male;-1.0;true
-third;Mihoff, Mr Stoytcho;male;-1.0;false
-third;Miles, Mr Frank;male;-1.0;false
-third;Mineff, Mr Ivan;male;-1.0;false
-third;Minkoff, Mr Lazar;male;-1.0;false
-third;Mirko, Mr Dika;male;-1.0;false
-third;Mitkoff, Mr Mito;male;-1.0;false
-third;Mocklare, Miss Helen Mary;female;-1.0;true
-third;Moen, Mr Sigurd H;male;-1.0;false
-third;Moor, Mrs Beila;female;-1.0;true
-third;Moor, Master Meier;male;-1.0;false
-third;Moore, Mr Leord Charles;male;-1.0;false
-third;Moran, Miss Bertha;female;-1.0;true
-third;Moran, Mr Daniel J;male;-1.0;false
-third;Moran, Mr James;male;-1.0;false
-third;Morley, Mr Henry Samuel;male;-1.0;false
-third;Morrow, Mr Thomas Rowan;male;-1.0;false
-third;Moubarek (Borak), Mr Han (John);male;-1.0;true
-third;Moubarek, Mrs George;female;-1.0;false
-third;Moubarek, Master George;male;-1.0;false
-third;Moubarek, Master William George;male;-1.0;false
-third;Moss, Albert Johan;male;-1.0;false
-third;Moussa, Mrs Mantoura Baloics;female;-1.0;false
-third;Moutal, Mr Rahamin;male;-1.0;false
-third;Mullins, Miss Katie;female;-1.0;true
-third;Mulvihill, Miss Bertha E;female;-1.0;false
-third;Murdlin, Mr Joseph;male;-1.0;false
-third;Murphy, Miss Katherine;female;-1.0;false
-third;Murphy, Miss Margaret;female;-1.0;false
-third;Murphy, Miss Nora;female;-1.0;false
-third;Myhrman, Mr Pehr Fabian Oliver Malkolm;male;-1.0;false
-third;ckid, Miss Maria;female;-1.0;true
-third;ckid, Mr Said;male;-1.0;false
-third;ckid, Mrs Said;female;-1.0;false
-third;hill, Mr Toufik;male;-1.0;false
-third;idenoff, Mr Penko;male;-1.0;false
-third;ncarrow, W H;male;-1.0;false
-third;Niklasen, Sander;male;-1.0;false
-third;Nosworthy, Richard C;male;-1.0;false
-third;jib, Miss Adele Kiamie;female;-1.0;true
-third;ncarrow, Mr William Henry;male;-1.0;false
-third;nkoff, Mr Minko;male;-1.0;false
-third;sr, Mr Mustafa;male;-1.0;false
-third;ssr, Mr Saade Jean;male;-1.0;false
-third;ughton, Miss Hanh;female;-1.0;false
-third;Nemaugh, Mr Robert;male;-1.0;false
-third;Nenkoff, Mr Christo;male;-1.0;false
-third;Nicola-Yarred, Miss Jamila;female;-1.0;true
-third;Nicola-Yarred, Master Elias;male;-1.0;false
-third;Nieminen, Miss Manta Josefi;female;-1.0;false
-third;Niklasson, Mr Samuel;male;-1.0;false
-third;Nilsson, Mr August Ferdind;male;-1.0;false
-third;Nilsson, Miss Berta Olivia;female;-1.0;true
-third;Nilsson, Miss Helmi Josefi;female;-1.0;false
-third;Niskanen, Mr Johan;male;-1.0;false
-third;Nosworthy, Mr Richard Cater;male;-1.0;false
-third;Novel, Mansouer;male;-1.0;true
-third;Nysten, Miss An;female;-1.0;false
-third;Nysveen, Mr Johan H;male;-1.0;false
-third;O'Brien, Mr Denis;male;-1.0;false
-third;O'Brien, Mr Thomas;male;-1.0;false
-third;O'Brien, Mrs Thomas;female;-1.0;true
-third;O'Connell, Mr Patrick D;male;-1.0;false
-third;O'Connor, Mr Maurice;male;-1.0;false
-third;O'Connor, Mr Patrick;male;-1.0;false
-third;Odahl, Mr Nils Martin;male;-1.0;true
-third;O'Dwyer, Miss Nellie;female;-1.0;false
-third;Ohman, Miss Velin;female;-1.0;false
-third;O'Keefe, Mr Patrick;male;-1.0;false
-third;OLeary, Miss Norah;female;-1.0;false
-third;Olsen, Master Arthur;male;-1.0;false
-third;Olsen, Mr Charlie (Carl);male;-1.0;false
-third;Olsen, Mr Henry Margido;male;-1.0;false
-third;Olsen, Mr Ole M;male;-1.0;false
-third;Olsson, Miss Elida;female;-1.0;false
-third;Olsson, Mr Nils Johan;male;-1.0;false
-third;Olsson, Mr Oscar Johansson;male;-1.0;true
-third;O'Neill, Miss Bridget;female;-1.0;false
-third;Oreskovic, Mr Jeko;male;-1.0;false
-third;Oreskovic, Mr Luka;male;-1.0;false
-third;Oreskovic, Mr Maria;male;-1.0;false
-third;Osen, Mr Olof Elon;male;-1.0;false
-third;Osman, Miss Maria;female;-1.0;true
-third;O'Sullivan, Miss Bridget;female;-1.0;false
-third;Panula, Mr Ernesti Arvid;male;-1.0;false
-third;Panula, Mr Jaako Arnold;male;-1.0;false
-third;Panula, Master Juha Niilo;male;-1.0;false
-third;Panula, Mrs John;female;-1.0;false
-third;Panula, Master Urho Abraham;male;-1.0;false
-third;Panula, Master William;male;-1.0;false
-third;Pasic, Mr Jakob;male;-1.0;false
-third;Paulner, Mr Uscher;male;-1.0;false
-third;Paulsson, Master Gosta Leord;male;-1.0;false
-third;Paulsson, Mrs Nils;female;-1.0;false
-third;Paulsson, Master Paul Folke;male;-1.0;false
-third;Paulsson, Miss Sti Viola;female;-1.0;false
-third;Paulsson, Miss Torborg Danira;female;-1.0;false
-third;Pavlovic, Mr Stefo;male;-1.0;false
-third;Peacock, Master Alfred Edward;male;-1.0;false
-third;Peacock, Mrs Benjamin;female;-1.0;false
-third;Peacock, Miss Treasteall;female;-1.0;false
-third;Pearce, Mr Ernest;male;-1.0;false
-third;Pecruic, Mr Mate;male;-1.0;false
-third;Pecruic, Mr Tome;male;-1.0;false
-third;Pedersen, Mr Olaf;male;-1.0;false
-third;Peduzzi, Mr Joseph;male;-1.0;false
-third;Pekoniemi, Mr Edvard;male;-1.0;true
-third;Peltomaki, Nikolai Johannes;male;-1.0;false
-third;Perkin, Mr John Henry;male;-1.0;false
-third;Persson, Mr Ernst Ulrik;male;-1.0;true
-third;Peter (Joseph), Miss Mary;female;-1.0;false
-third;Peter (Joseph), Mrs Catherine;female;-1.0;false
-third;Peter (Joseph), Master Michael J;male;-1.0;false
-third;Peters, Miss Katie;female;-1.0;false
-third;Petersen, Mr Marius;male;-1.0;false
-third;Petranec, Miss Matilda;female;-1.0;false
-third;Petroff, Mr Nedeca;male;-1.0;false
-third;Petroff, Mr Pentcho;male;-1.0;false
-third;Pettersson, Miss Ellen talia;female;-1.0;false
-third;Peterson, Mr Johan Emil;male;-1.0;false
-third;Pickard (Trembisky), Mr Berk;male;-1.0;true
-third;Plotcharsky, Mr Vasil;male;-1.0;false
-third;Potchett, Mr George;male;-1.0;false
-third;Radeff, Mr Alexander;male;-1.0;false
-third;Raibid, Mr Razi;male;-1.0;false
-third;Reed, Mr James George;male;-1.0;false
-third;Reynolds, Mr Harold;male;-1.0;false
-third;Rice, Master Albert;male;-1.0;false
-third;Rice, Master Arthur;male;-1.0;false
-third;Rice, Master George;male;-1.0;false
-third;Rice, Master Eric;male;-1.0;false
-third;Rice, Master Eugene;male;-1.0;false
-third;Rice, Mrs William;female;-1.0;false
-third;Riihiivouri, Miss Sanni;female;-1.0;false
-third;Rintamaki, Mr Matti;male;-1.0;false
-third;Riordan, Miss Hanh;female;-1.0;true
-third;Risien, Mr Samuel;male;-1.0;false
-third;Risien, Mrs Samuel;female;-1.0;false
-third;Robins, Mr Alexander A;male;-1.0;false
-third;Robins, Mrs Alexander A;female;-1.0;false
-third;Rommetvedt, Mr Karl Kristian Knut;male;-1.0;false
-third;Rogers, Mr William John;male;-1.0;false
-third;Rosblom, Mrs Viktor;female;-1.0;false
-third;Rosblom, Miss Salli Hele;female;-1.0;false
-third;Rosblom, Mr Viktor Rickard;male;-1.0;false
-third;Roth, Miss Sarah;female;-1.0;true
-third;Rouse, Mr Richard Henry;male;-1.0;false
-third;Rush, Mr Alfred George John;male;-1.0;false
-third;Ryan, Mr Edward Ryan;male;-1.0;true
-third;Ryan, Mr Patrick;male;-1.0;false
-third;Saad, Mr Amin;male;-1.0;false
-third;Saad, Khalil;male;-1.0;true
-third;Sadlier, Mr Matthew;male;-1.0;false
-third;Sadowitz, Mr Harry;male;-1.0;false
-third;Sage, Miss Ada;female;-1.0;false
-third;Sage, Miss Constance;female;-1.0;false
-third;Sage, Miss Dorothy;female;-1.0;false
-third;Sage, Mr Douglas;male;-1.0;false
-third;Sage, Mr Frederick;male;-1.0;false
-third;Sage, Mr George;male;-1.0;false
-third;Sage, Mr John;male;-1.0;false
-third;Sage, Mrs John;female;-1.0;false
-third;Sage, Miss Stella;female;-1.0;false
-third;Sage, Thomas (child);male;-1.0;false
-third;Sage, Master William;male;-1.0;false
-third;Salkjelsvik, Miss An;female;-1.0;true
-third;Salonen, Mr Johan Werner;male;-1.0;false
-third;Samaan, Mr Elias;male;-1.0;false
-third;Samaan, Mr Han;male;-1.0;false
-third;Samaan, Mr Youssef;male;-1.0;false
-third;Sandstrom, Miss Hjalmar;female;-1.0;true
-third;Sandstrom, Miss Marguerite Rut;female;-1.0;false
-third;Sather, Simon Sivertsen;male;-1.0;false
-third;Saundercock, William Henry;male;-1.0;false
-third;Sawyer, Mr Frederick;male;-1.0;false
-third;Scanlan, Mr James;male;-1.0;false
-third;Sdycoff, Mr Todor;male;-1.0;false
-third;Seman Master Betros;male;-1.0;false
-third;Serota, Mr Maurice;male;-1.0;false
-third;Shaughnesay, Mr Patrick;male;-1.0;false
-third;Shedid (Sitik), Mr Daher (Docart);male;-1.0;false
-third;Sheerlinck, Mr Jean;male;-1.0;true
-third;Shellard, Mr Frederick B;male;-1.0;false
-third;Shine, Miss Ellen;female;-1.0;true
-third;Shorney, Mr Charles;male;-1.0;false
-third;Simmons, Mr John;male;-1.0;false
-third;Sirayanian, Mr Arsun;male;-1.0;false
-third;Sivic, Mr Husen;male;-1.0;false
-third;Sivola, Mr Antti;male;-1.0;false
-third;Sjoblom, Miss An Sofia;female;-1.0;true
-third;Sholt, Mr Peter Andreas Lauritz Andersen;male;-1.0;false
-third;Skinner, Mr Henry John;male;-1.0;false
-third;Skoog, Master Harald;male;-1.0;false
-third;Skoog, Master Karl;male;-1.0;false
-third;Skoog, Miss Mabel;female;-1.0;false
-third;Skoog, Miss Margit;female;-1.0;false
-third;Skoog, Mr William;male;-1.0;false
-third;Skoog, Mrs William;female;-1.0;false
-third;Slabenoff, Mr Petco;male;-1.0;false
-third;Slocovski, Mr Selman;male;-1.0;false
-third;Smiljanovic, Mr Mile;male;-1.0;false
-third;Smyth, Miss Julia;female;-1.0;true
-third;Solvang, Mrs Le Jacobsen;female;-1.0;false
-third;Somerton, Mr Francis William;male;-1.0;false
-third;Sop, Mr Jules;male;-1.0;true
-third;Spector, Mr Woolf;male;-1.0;false
-third;Staneff, Mr Ivan;male;-1.0;false
-third;Stankovic, Mr Jovan;male;-1.0;false
-third;Stanley, Miss Amy Zilla Elsie;female;-1.0;true
-third;Stanley, Mr Edward Roland;male;-1.0;false
-third;Storey, Mr Thomas;male;-1.0;false
-third;Stoyehoff, Mr Ilia;male;-1.0;false
-third;Strandberg, Miss Ida Sofia;female;-1.0;false
-third;Stranden, Mr Juho;male;-1.0;true
-third;Strilic, Mr Ivan;male;-1.0;false
-third;Strom, Mrs Wilhelm;female;-1.0;false
-third;Strom, Miss Telma (Selma) Matilda;female;-1.0;false
-third;Sunderland, Mr Victor Francis;male;-1.0;true
-third;Sundman, Mr Johan Julian;male;-1.0;false
-third;Sutehall, Mr Henry, Jr;male;-1.0;false
-third;Svensson, Mr Johan;male;-1.0;false
-third;Svensson, Mr Johan Cervin;male;-1.0;true
-third;Svensson, Mr Olof;male;-1.0;false
-third;Tannous, Mr Thomas;male;-1.0;false
-third;Tenglin, Mr Gunr Isidor;male;-1.0;true
-third;Theobald, Mr Thomas Leord;male;-1.0;false
-third;Thomas, Mrs Alexander;female;-1.0;true
-third;Thomas, Master Assad Alexander;male;-1.0;false
-third;Thomas, Mr Charles;male;-1.0;false
-third;Thomas, Mr John, Jr;male;-1.0;false
-third;Thomas, Mr John (? 1st/2nd class);male;-1.0;false
-third;Thomson, Mr Alexander;male;-1.0;false
-third;Thorneycroft, Mr Percival;male;-1.0;false
-third;Thorneycroft, Mrs Percival;female;-1.0;true
-third;Tikkanen, Mr Juho;male;-1.0;false
-third;Tobin, Mr Roger;male;-1.0;false
-third;Todoroff, Mr Lalio;male;-1.0;false
-third;Toerber, Mr Ernest William;male;-1.0;false
-third;Tomlin, Mr Ernest Portage;male;-1.0;false
-third;Torfa, Mr Assad;male;-1.0;false
-third;Touma (Thomas), Mrs Darwin;female;-1.0;false
-third;Touma (Thomas), Master George;male;-1.0;false
-third;Touma (Thomas), Miss Hanh;female;-1.0;false
-third;Turcin, Mr Stefan;male;-1.0;false
-third;Uzelas, Mr Joso;male;-1.0;false
-third;Van Billiard, Mr Austin Blyler;male;-1.0;false
-third;Van Billiard, Master James William;male;-1.0;false
-third;Van Billiard, Master Walter John;male;-1.0;false
-third;Vassilios, Mr Catavelas;male;-1.0;false
-third;Ware, Mr Frederick;male;-1.0;false
-third;Warren, Mr Charles William;male;-1.0;false
-third;Wazli, Mr Yousif;male;-1.0;false
-third;Webber, Mr James;male;-1.0;false
-third;Wennerstrom, Mr August Edvard;male;-1.0;true
-third;Wenzel, Mr Linhart;male;-1.0;false
-third;Willer, Mr Aaron;male;-1.0;false
-third;Willey, Mr Edward;male;-1.0;false
-third;Williams, Mr Howard Hugh;male;-1.0;false
-third;Wiseman, Mr Phillippe;male;-1.0;false
-third;Yalsevac, Mr Ivan;male;-1.0;true
-third;Youssef, Mr Gerios;male;-1.0;false
-third;Zabour, Miss Hileni;female;-1.0;false
-third;Zabour, Miss Tamini;female;-1.0;false
+PClass;Name;Sex;Age;Survived;Predicted
+first;Artagaveytia, Mr Ramon;male;71.0;false;false
+first;Goldschmidt, Mr George B;male;71.0;false;false
+second;Mitchell, Mr Henry Michael;male;71.0;false;false
+first;Crosby, Captain Edward Gifford;male;70.0;false;false
+first;Crosby, Mrs Edward Gifford (Catherine Elizabeth Halstead);female;69.0;true;true
+first;Straus, Mr Isidor;male;67.0;false;false
+first;Millet, Mr Francis Davis;male;65.0;false;false
+third;Dewan, Mr Frank;male;65.0;false;false
+first;Compton, Mrs Alexander Taylor (Mary Eliza Ingersoll);female;64.0;true;true
+first;Fortune, Mr Mark;male;64.0;false;false
+first;Nicholson, Mr Arthur Ernest;male;64.0;false;false
+first;Ostby, Mr Engelhart Cornelius;male;64.0;false;false
+first;Warren, Mr Frank Manley;male;64.0;false;false
+second;Myles, Mr Thomas Francis;male;64.0;false;false
+first;Andrews, Miss Kornelia Theodosia;female;63.0;true;true
+first;Straus, Mrs Isidor (Ida Blun);female;63.0;false;true
+third;Turkula, Mrs Hedvig;female;63.0;true;true
+first;Stead, Mr William Thomas;male;62.0;false;false
+first;Stone, Mrs George Nelson (Martha E);female;62.0;true;true
+first;Ryerson, Mr Arthur Larned;male;61.0;false;false
+first;Sutton, Mr Frederick;male;61.0;false;false
+first;Van Derhoef, Mr Wyckoff;male;61.0;false;false
+first;Bucknell, Mrs William Robert (Emma Eliza Ward);female;60.0;true;true
+first;Fortune, Mrs Mark (Mary McDougald);female;60.0;true;true
+first;Frolicher-Stehli, Mr Maxmillian;male;60.0;true;false
+first;Warren, Mrs Frank Manley (An S Atkinson);female;60.0;true;true
+first;Weir, Col John;male;60.0;false;false
+first;Brown, Mrs John Murray (Caroline Lane Lamson);female;59.0;true;true
+second;Sjostedt, Mr Ernst Adolf;male;59.0;false;false
+third;Coxon, Mr Daniel;male;59.0;false;false
+first;Appleton, Mrs Edward Dale (Charlotte Lamson);female;58.0;true;true
+first;Bonnell, Miss Elizabeth;female;58.0;true;true
+first;Cardeza, Mrs James Warburton Martinez (Charlotte Wardle Drake);female;58.0;true;true
+first;Graham, Mrs William Thompson (Edith Junkins);female;58.0;true;true
+first;Kent, Mr Edward Austin;male;58.0;false;false
+first;Newell, Mr Arthur Webster;male;58.0;false;false
+first;Spencer, Mr William Augustus;male;57.0;false;false
+first;Wick, Mr George Dennick;male;57.0;false;false
+second;Ashby, Mr John;male;57.0;false;false
+second;Mack, Mrs Mary;female;57.0;false;true
+first;Potter, Mrs Thomas, Jr (Lily Alexenia Wilson);female;56.0;true;true
+first;Simonius-Blumer, Col Alfons;male;56.0;true;false
+first;Smart, Mr John Montgomery;male;56.0;false;false
+first;Smith, Mr James Clinch;male;56.0;false;false
+first;Cornell, Mrs Robert Clifford (Malvi Helen Lamson);female;55.0;true;true
+first;Hays, Mr Charles Melville;male;55.0;false;false
+first;Lindstrom, Mrs Carl Johan (Sigrid Posse);female;55.0;true;true
+first;Molson, Mr Harry Markland;male;55.0;false;false
+first;Rothschild, Mr Martin;male;55.0;false;false
+first;White, Mrs J Stuart (Ella Holmes);female;55.0;true;true
+first;Gracie, Colonel Archibald IV;male;54.0;true;false
+first;McCarthy, Mr Timothy J;male;54.0;false;false
+first;Rothschild, Mrs Martin (Elizabeth L Barrett);female;54.0;true;true
+first;Stengel, Mr Charles Emil Henry;male;54.0;true;false
+first;White, Mr Percival Wayland;male;54.0;false;false
+second;Carter, Rev Ernest Courtey;male;54.0;false;false
+second;Moraweck, Dr Ernest;male;54.0;false;false
+first;Candee, Mrs Edward (Helen Churchill Hungerford);female;53.0;true;true
+first;Eustis, Miss Elizabeth Mussey;female;53.0;true;true
+second;Hocking, Mrs Elizabeth;female;53.0;true;true
+first;Hays, Mrs Charles Melville (Clara Jennings Gregg);female;52.0;true;true
+first;Peuchen, Major Arthur Godfrey;male;52.0;true;false
+first;Stephenson, Mrs Walter Bertram (Martha Eustis);female;52.0;true;true
+first;Taussig, Mr Emil;male;52.0;false;false
+second;Chapman, Mr Charles Henry;male;52.0;false;false
+second;Hodges, Mr Henry Price;male;52.0;false;false
+first;Hogeboom, Mrs John C (An Andrews);female;51.0;true;true
+first;Williams, Mr Charles Duane;male;51.0;false;false
+second;Bateman, Rev Robert James;male;51.0;false;false
+third;Widegren, Mr Charles Peter;male;51.0;false;false
+first;Baxter, Mrs James (Helene DeLaudeniere Chaput);female;50.0;true;true
+first;Douglas, Mr Walter Dold;male;50.0;false;false
+first;Isham, Miss Anne Elizabeth;female;50.0;false;true
+first;Lines, Mrs Ernest H (Elizabeth Lindsey James);female;50.0;true;true
+first;Silvey, Mr William Baird;male;50.0;false;false
+first;Widener, Mr George Dunton;male;50.0;false;false
+first;Widener, Mrs George Dunton (Eleanor Elkins);female;50.0;true;true
+second;Greenberg, Mr Samuel;male;50.0;false;false
+second;Parrish, Mrs Lutie Davis;female;50.0;true;true
+second;Ridsdale, Miss Lucy;female;50.0;true;true
+second;Toomey, Miss Ellen;female;50.0;true;true
+first;Case, Mr Howard Brown;male;49.0;false;true
+first;Duff Gordon, Sir Cosmo Edmund;male;49.0;true;true
+first;Frauenthal, Dr Henry William;male;49.0;true;true
+first;Goldenberg, Mr Samuel L;male;49.0;true;true
+first;Harper, Mrs Henry Sleeper (My Haxtun);female;49.0;true;true
+first;Ismay, Mr Joseph Bruce;male;49.0;true;true
+first;Thayer, Mr John Borland;male;49.0;false;true
+second;Davis, Mrs Agnes;female;49.0;true;true
+second;Herman, Mr Samuel;male;49.0;false;false
+third;Johnson, Mr Alfred;male;49.0;false;false
+first;Brandeis, Mr Emil;male;48.0;false;true
+first;Douglas, Mrs Walter Dold (Mahala Dutton);female;48.0;true;true
+first;Duff Gordon, Lady (Lucille Wallace Sutherland);female;48.0;true;true
+first;Frolicher-Stehli, Mrs Maxmillian (Margaretha Emerentia Stehli);female;48.0;true;true
+first;Harper, Mr Henry Sleeper;male;48.0;true;true
+first;Ryerson, Mrs Arthur Larned (Emily Maria Borie);female;48.0;true;true
+first;Taylor, Mr Elmer Zebley;male;48.0;true;true
+second;Herman, Mrs Samuel (Jane Laver);female;48.0;true;true
+second;Louch, Mr Charles Alexander;male;48.0;false;false
+second;Milling, Mr Jacob Christian;male;48.0;false;false
+third;Ford, Mrs Edward (Margaret Ann);female;48.0;false;true
+third;Jensen, Mr Niels Peder;male;48.0;false;false
+first;Anderson, Mr Harry;male;47.0;true;true
+first;Astor, Colonel John Jacob;male;47.0;false;true
+first;Beckwith, Mrs Richard Leord (Sallie Monypeny);female;47.0;true;true
+first;Chaffee, Mrs Herbert Fuller (Carrie Constance Toogood);female;47.0;true;true
+first;Gee, Mr Arthur H;male;47.0;false;true
+first;Moore, Mr Clarence Bloomfield;male;47.0;false;true
+first;Walker, Mr William Anderson;male;47.0;false;true
+third;Elsbury, Mr James;male;47.0;false;false
+third;Vereruysse, Mr Victor;male;47.0;false;false
+first;Chaffee, Mr Herbert Fuller;male;46.0;false;true
+first;Guggenheim, Mr Benjamin;male;46.0;false;true
+first;Jones, Mr Charles Cresson;male;46.0;false;true
+first;McCaffry, Mr Thomas Francis;male;46.0;false;true
+first;Porter, Mr Walter Chamberlain;male;46.0;false;true
+first;Swift, Mrs Frederick Joel (Margaret Welles Barron);female;46.0;true;true
+first;Thorne, Mr George (alias of: Mr George Rosenshine);male;46.0;false;true
+second;McKane, Mr Peter D;male;46.0;false;false
+first;Blackwell, Mr Stephen Weart;male;45.0;false;true
+first;Bowen, Miss Grace Scott;female;45.0;true;true
+first;Butt, Major Archibald Willingham;male;45.0;false;true
+first;Gibson, Mrs Leord (Pauline C Boeson);female;45.0;true;true
+first;Greenfield, Mrs Leo David (Blanche Strouse);female;45.0;true;true
+first;Harris, Mr Henry Birkhardt;male;45.0;false;true
+first;Spedden, Mr Frederick Oakley;male;45.0;true;true
+first;Wick, Mrs George Dennick (Martha Hitchcock);female;45.0;true;true
+second;Brown, Mr Thomas William Solomon;male;45.0;false;false
+second;Gilbert, Mr William;male;45.0;false;false
+second;Hart, Mrs Benjamin (Esther);female;45.0;true;true
+second;Kelly, Mrs Florence (Fannie);female;45.0;true;true
+second;McCrae, Mr Arthur Gordon;male;45.0;false;false
+third;Assaf, Mrs Maria;female;45.0;true;true
+third;Barbara, Mrs Catherine;female;45.0;false;true
+third;Dahl, Mr Charles Edward;male;45.0;true;false
+third;Ekstrom, Mr Johan;male;45.0;false;false
+third;Hansen, Mrs Claus Peter;female;45.0;true;true
+third;Lindblom, Miss Augusta Charlotta;female;45.0;false;true
+third;Wilkes, Mrs Ellen;female;45.0;true;true
+first;Brown, Mrs James Joseph (Margaret Molly" Tobin)";female;44.0;true;true
+first;Frauenthal, Mr Isaac Gerald;male;44.0;true;true
+first;Hippach, Mrs Louis Albert (Ida Sophia Fischer);female;44.0;true;true
+first;Mihan, Dr William Edward;male;44.0;false;true
+second;Carter, Mrs Ernest Courtey (Lillian Hughes);female;44.0;false;true
+second;Harbeck, Mr William H;male;44.0;false;false
+third;Cribb, Mr John Hatfield;male;44.0;false;false
+third;Kelly, Mr James;male;44.0;false;false
+first;Robert, Mrs Edward Scott (Elisabeth Walton McMillan);female;43.0;true;true
+first;Stengel, Mrs Charles Emil Henry (Annie May Morris);female;43.0;true;true
+second;Hart, Mr Benjamin;male;43.0;false;false
+third;Cook, Mr Jacob;male;43.0;false;false
+third;Dintcheff, Mr Valtcho;male;43.0;false;false
+third;Goodwin, Mrs Frederick (Augusta);female;43.0;false;true
+third;Holm, Mr John Frederik Alexander;male;43.0;false;false
+first;Holverson, Mr Alexander Oskar;male;42.0;false;true
+first;Kimball, Mr Edwin Nelson Jr;male;42.0;true;true
+first;Lindeberg-Lind, Mr Erik Gustaf;male;42.0;false;true
+second;Bystrom, Mrs Caroli;female;42.0;true;true
+second;Drew, Mr James Vivian;male;42.0;false;false
+second;Hold, Mr Stephen;male;42.0;false;false
+second;Phillips, Miss Alice;female;42.0;true;true
+third;Abbing, Mr Anthony;male;42.0;false;false
+third;Dimic, Mr Jovan;male;42.0;false;false
+third;Humblin, Mr Adolf Mathias Nicolai Olsen;male;42.0;false;false
+third;Kelly, Mr James;male;42.0;false;false
+first;Brady, Mr John Bertram;male;41.0;false;true
+first;Kenyon, Mr Frederick R;male;41.0;false;true
+second;Hosono, Mr Masafumi;male;41.0;true;false
+second;Mellenger, Mrs Elizabeth Anne;female;41.0;true;true
+second;Stanton, Mr Samuel Ward;male;41.0;false;false
+third;Aijo-Nirva, Mr Isak;male;41.0;false;false
+third;Goldsmith, Mr than;male;41.0;false;false
+third;Hansen, Mr Claus Peter;male;41.0;false;false
+first;Kimball, Mrs Edwin Nelson Jr (Gertrude Parsons);female;40.0;true;true
+first;Shutes, Miss Elizabeth W;female;40.0;true;true
+first;Spedden, Mrs Frederick Oakley (Margaretta Corning Stone);female;40.0;true;true
+first;Harrison, Mr William   Henry;male;40.0;false;true
+second;Brown, Mrs Thomas William Solomon (Elizabeth C);female;40.0;true;true
+second;Peruschitz, Rev Joseph M;male;40.0;false;false
+second;Watt, Mrs James (Bessie Inglis Milne);female;40.0;true;true
+third;Ahlin, Mrs Johan Persdotter;female;40.0;false;true
+third;Asplund, Mr Carl Oscar Vilhelm Gustafsson;male;40.0;false;false
+third;Badt, Mr Mohamed;male;40.0;false;false
+third;Bourke, Mr John;male;40.0;false;false
+third;Goodwin, Mr Frederick;male;40.0;false;false
+third;Green, Mr George;male;40.0;false;false
+first;Andrews, Mr Thomas, jr;male;39.0;false;true
+first;Blank, Mr Henry;male;39.0;true;true
+first;Compton, Miss Sara Rebecca;female;39.0;true;true
+first;Cumings, Mr John Bradley;male;39.0;false;true
+first;Dulles, Mr William Crothers;male;39.0;false;true
+first;Silvey, Mrs William Baird (Alice Munger);female;39.0;true;true
+first;Taussig, Mrs Emil (Tillie Mandelbaum);female;39.0;true;true
+first;Thayer, Mrs John Borland (Marian Longstreth Morris);female;39.0;true;true
+second;Otter, Mr Richard;male;39.0;false;false
+third;Andersson, Mr Anders Johan;male;39.0;false;false
+third;Andersson, Mrs Anders Johan (Alfrida K Brogren);female;39.0;false;true
+third;Karun, Mr Franz;male;39.0;false;false
+third;Kink, Mr Anton;male;39.0;true;false
+third;Lester, Mr James;male;39.0;false;false
+first;Cumings, Mrs John Bradley (Florence Briggs Thayer);female;38.0;true;true
+first;Graham, Mr George Edward;male;38.0;false;true
+first;Hoyt, Mr Frederick Maxfield;male;38.0;true;true
+second;Fox, Mr Stanley H;male;38.0;false;false
+second;Funk, Miss Annie C;female;38.0;false;true
+second;Gale, Mr Shadrach;male;38.0;false;false
+third;Andersson, Miss Ida Augusta Margareta;female;38.0;false;true
+third;Asplund, Mrs Carl Oscar (Selma Augusta Johansson);female;38.0;true;true
+third;Cacic, Mr Luka;male;38.0;false;false
+third;Georges, Mrs Shahini Weappi;female;38.0;true;true
+third;Goncalves, Mr Manuel Estanslas;male;38.0;false;false
+first;Beckwith, Mr Richard Leord;male;37.0;true;true
+first;Compton, Mr Alexander Taylor, Jr;male;37.0;false;true
+first;Futrelle, Mr Jacques;male;37.0;false;true
+first;Mihan, Mrs William Edward (Lillian E Thorpe);female;37.0;true;true
+third;Carr, Miss Jeannie;female;37.0;false;true
+third;Gustafsson, Mr Anders Vilhelm;male;37.0;false;false
+third;Laitinen, Miss Kriti Sofia;female;37.0;false;true
+first;Beattie, Mr Thomson;male;36.0;false;true
+first;Cardeza, Mr Thomas Drake Martinez;male;36.0;true;true
+first;Carter, Mr William Ernest;male;36.0;true;true
+first;Carter, Mrs William Ernest (Lucile Polk);female;36.0;true;true
+first;Cavendish, Mr Tyrell William;male;36.0;false;true
+first;Crosby, Miss Harriet R;female;36.0;true;true
+first;Evans, Miss Edith Corse;female;36.0;false;true
+first;Harris, Mrs Henry Birkhardt (Irene Wallach);female;36.0;true;true
+first;McGough, Mr James R;male;36.0;true;true
+first;tsch, Mr Charles H;male;36.0;false;true
+first;Silverthorne, Mr Spencer Victor;male;36.0;true;true
+first;Young, Miss Marie Grice;female;36.0;true;true
+second;Balls, Mrs Ada E Hall;female;36.0;true;true
+second;Becker, Mrs Allen Oliver (Nellie E Baumgardner);female;36.0;true;true
+second;Buss, Miss Kate;female;36.0;true;true
+second;Hold, Mrs Stephen (Annie Margaret);female;36.0;true;true
+second;Reeves, Mr David;male;36.0;false;true
+second;Webber, Miss Susan;female;36.0;true;true
+second;West, Mr Edwy Arthur;male;36.0;false;true
+third;Coleff, Mr Peyo;male;36.0;false;false
+third;Coutts, Mrs William (Minnie);female;36.0;true;true
+third;De Messemaeker, Mr William Joseph;male;36.0;true;false
+third;De Messemaeker, Mrs William Joseph (An);female;36.0;true;true
+third;Klasen, Mrs Hulda Kristi;female;36.0;false;true
+third;Leord, Mr Lionel;male;36.0;false;false
+third;Lindell, Mr Edvard Bengtsson;male;36.0;false;false
+third;Van de Velde, Mr John Joseph;male;36.0;false;false
+third;Van Impe, Mr Jean Baptiste;male;36.0;false;false
+third;Wittevrongel, Mr Camiel;male;36.0;false;false
+first;Futrelle, Mrs Jacques (May Peel);female;35.0;true;true
+first;Holverson, Mrs Alexander Oskar (Mary Aline Towner);female;35.0;true;true
+first;Homer, Mr Harry;male;35.0;true;true
+first;Hoyt, Mrs Frederick Maxfield (Jane Anne Forby);female;35.0;true;true
+second;Collyer, Mr Harvey;male;35.0;false;true
+second;Fynney, Mr Joseph J;male;35.0;false;true
+second;Gale, Mr Harry;male;35.0;false;true
+second;Slemen, Mr Richard James;male;35.0;false;true
+second;Walcroft, Miss Nellie;female;35.0;true;true
+third;Abbott, Mrs Stanton (Rosa);female;35.0;true;true
+third;Allen, Mr William Henry;male;35.0;false;false
+third;Asim, Mr Adola;male;35.0;false;false
+third;Brocklebank, Mr William Alfred;male;35.0;false;false
+third;Cor, Mr Bartol;male;35.0;false;false
+first;Seward, Mr Frederic Kimber;male;34.0;true;true
+second;Angle, Mr William A;male;34.0;false;true
+second;Beesley, Mr Lawrence;male;34.0;true;true
+second;Drew, Mrs James Vivian (Lulu Thorne Christian);female;34.0;true;true
+second;Gillespie, Mr William;male;34.0;false;true
+second;Hickman, Mr Leord Mark;male;34.0;false;true
+second;Kantor, Mr Sii;male;34.0;false;true
+second;Lemore, Mrs Amelia;female;34.0;true;true
+second;Ponesell, Mr Martin;male;34.0;false;true
+second;Renouf, Mr Peter Henry;male;34.0;false;true
+third;Danbom, Mr Ernst Gilbert;male;34.0;false;false
+third;Johanson, Mr Jakob Alfred;male;34.0;false;false
+first;Carlsson, Mr Frans Olof;male;33.0;false;true
+first;Mihan, Miss Daisy E;female;33.0;true;true
+first;Rosenbaum (Russell), Miss Edith Louise;female;33.0;true;true
+first;Ringhini, Mr Sante;male;33.0;false;true
+second;Hunt, Mr George Henry;male;33.0;false;true
+second;Quick, Mrs Frederick C (Jane Richards);female;33.0;true;true
+second;West, Mrs Edwy Arthur (Ada Mary);female;33.0;true;true
+third;Backstrom, Mrs Karl Alfred (Maria Mathilda Gustafsson);female;33.0;true;true
+third;Carlsson, Mr Frans Olof;male;33.0;false;false
+third;Carlsson, Mr Julius;male;33.0;false;false
+third;Dean, Mrs Bertram (Eva);female;33.0;true;true
+third;Goldsmith, Mr Frank John;male;33.0;false;false
+third;Johansson, Mr Gustaff Joel;male;33.0;false;false
+third;Johnson, Mr Malkolm Joackim;male;33.0;false;false
+first;Staehlin, Dr Max;male;32.0;true;true
+first;Keeping, Mr Edwin;male;32.0;false;true
+second;Angle, Mrs William A (Florence);female;32.0;true;true
+second;Beane, Mr Edward;male;32.0;true;true
+second;Doling, Mrs Ada;female;32.0;true;true
+second;Hickman, Mr Lewis;male;32.0;false;true
+second;sser (srallah), Mr Nicholas;male;32.0;false;true
+second;vratil, Mr Michel;male;32.0;false;true
+second;Pinsky, Miss Rosa;female;32.0;true;true
+second;Weisz, Mrs Leopold (Mathilde);female;32.0;true;true
+second;Wilhelms, Mr Charles;male;32.0;true;true
+third;Andersen, Mr Albert Karvin;male;32.0;false;false
+third;Backstrom, Mr Karl Alfred;male;32.0;false;false
+third;Bing, Mr Lee;male;32.0;true;false
+third;Bourke, Mrs John (Catherine);female;32.0;false;true
+third;Chip, Mr Chang;male;32.0;false;false
+third;Dooley, Mr Patrick;male;32.0;false;false
+third;Gronnestad, Mr Daniel Danielsen;male;32.0;false;false
+third;Johansson, Mr Karl Johan;male;32.0;true;false
+third;Jonsson, Mr Carl;male;32.0;true;false
+third;Jussila, Mr Erik;male;32.0;true;false
+third;Leinonen, Mr Antti Gustaf;male;32.0;false;false
+first;Chambers, Mrs Norman Campbell (Bertha Griggs);female;31.0;true;true
+first;Davidson, Mr Thornton;male;31.0;false;true
+first;Dick, Mr Albert Adrian;male;31.0;true;true
+first;Newell, Miss Madeleine;female;31.0;true;true
+first;Roebling, Mr Washington Augustus 2nd;male;31.0;false;true
+first;Tucker, Mr Gilbert Milligan, jr;male;31.0;true;true
+first;Wick, Miss Mary talie;female;31.0;true;true
+second;Cameron, Miss Clear;female;31.0;true;true
+second;Collyer, Mrs Harvey (Charlotte Tate);female;31.0;true;true
+second;Kvillner, Mr Johan Henrik Johannesson;male;31.0;false;true
+third;Conlin, Mr Thomas Henry;male;31.0;false;false
+third;Conghton, Mr Michael;male;31.0;false;false
+third;Van der Planke, Mr Jules;male;31.0;false;false
+third;Van der Planke, Mrs Jules;female;31.0;false;true
+first;Allison, Mr Hudson Joshua Creighton;male;30.0;false;true
+first;Bonnell, Miss Caroline;female;30.0;true;true
+first;Foreman, Mr Benjamin Laventall;male;30.0;false;true
+first;Loring, Mr Joseph Holland;male;30.0;false;true
+first;Maguire, Mr John Edward;male;30.0;false;true
+second;Abelson, Mr Samuel;male;30.0;false;true
+second;Chapman, Mr John Henry;male;30.0;false;true
+second;Chapman, Mrs John Henry (Elizabeth Lawry);female;30.0;false;true
+second;Corbett, Mrs Walter H (Irene Colvin);female;30.0;false;true
+second;Givard, Mr Hans Christensen;male;30.0;false;true
+second;Hale, Mr Regild;male;30.0;false;true
+second;Harris, Mr George;male;30.0;true;true
+second;Lahtinen, Rev William;male;30.0;false;true
+second;Matthews, Mr William John;male;30.0;false;true
+second;Meyer, Mr August;male;30.0;false;true
+second;Renouf, Mrs Peter Henry (Lillian Jefferys);female;30.0;true;true
+second;Siukonnen, Miss An;female;30.0;true;true
+second;Slayter, Miss Hilda Mary;female;30.0;true;true
+second;Veale, Mr James;male;30.0;false;true
+second;Ware, Mr John James;male;30.0;false;true
+second;Aldworth, Mr Charles Augustus;male;30.0;false;true
+third;Adahl, Mr Mauritz Nils Martin;male;30.0;false;false
+third;Cacic, Mr Maria;male;30.0;false;false
+third;Connolly, Miss Kate;female;30.0;false;true
+third;Corn, Mr Harry;male;30.0;false;false
+third;Daly, Miss Marcella;female;30.0;true;true
+third;De Mulder, Mr Theo;male;30.0;true;false
+third;Dowdell, Miss Elizabeth;female;30.0;true;true
+third;Karajic, Mr Milan;male;30.0;false;false
+third;Lindell, Mrs Edvard Bengtsson;female;30.0;false;true
+third;Van Impe, Mrs Jean Baptiste;female;30.0;false;true
+first;Allen, Miss Elisabeth Walton;female;29.0;true;true
+first;Long, Mr Milton Clyde;male;29.0;false;true
+second;Clarke, Mr Charles V;male;29.0;false;true
+second;Coleridge, Mr Regild Charles;male;29.0;false;true
+second;Nye, Mrs Elizabeth Ramell;female;29.0;true;true
+second;Turpin, Mr William John;male;29.0;false;true
+second;Wells, Mrs Arthur H (Addie Trevaskis);female;29.0;true;true
+third;Braund, Mr Lewis Richard;male;29.0;false;false
+third;Christmann, Mr Emil;male;29.0;false;false
+third;Daly, Mr Eugene;male;29.0;true;false
+third;Johansson, Mr Nils;male;29.0;false;false
+third;Larsson, Mr August Viktor;male;29.0;false;false
+third;Larsson, Mr Bengt Edvin;male;29.0;false;false
+third;Vendel, Mr Olof Wdvin;male;29.0;false;false
+third;Zimmerman, Leo;male;29.0;false;false
+first;Bjornstrm-Steffansson, Mr Mauritz Hakan;male;28.0;true;true
+first;Fortune, Miss Ethel Flora;female;28.0;true;true
+first;Meyer, Mr Edgar Joseph;male;28.0;false;true
+first;Ovies y Rodriguez, Mr Servando;male;28.0;false;true
+first;Sloper, Mr William Thompson;male;28.0;true;true
+second;Abelson, Mrs Samuel (An);female;28.0;true;true
+second;Banfield, Mr Frederick J;male;28.0;false;true
+second;Beauchamp, Mr Henry James;male;28.0;false;true
+second;Davis, Miss Mary;female;28.0;true;true
+second;del Carlo, Mr Sebastiano;male;28.0;false;true
+second;Harper, Rev John;male;28.0;false;true
+second;Parker, Mr Clifford R;male;28.0;false;true
+second;Reyldo, Mrs Encarcion;female;28.0;true;true
+second;Ware, Mrs John James (Florence Louise Long);female;28.0;true;true
+second;Weisz, Mr Leopold;male;28.0;false;true
+third;Carlsson, Mr August Sigfrid;male;28.0;false;false
+third;Carver, Mr Alfred John;male;28.0;false;false
+third;Danbom, Mrs Ernst Gilbert (An Sigrid Maria Brogren);female;28.0;false;true
+third;Gustafsson, Mr Johan Birger;male;28.0;false;false
+third;Hakkarainen, Mr Pekko Pietari;male;28.0;false;false
+third;Henriksson, Jenny Lovisa;female;28.0;false;true
+third;Van der Steen, Mr Leo Peter;male;28.0;false;false
+third;Vandewalle, Mr Nestor Cyriel;male;28.0;false;false
+third;Williams, Mr Leslie;male;28.0;false;false
+first;Chambers, Mr Norman Campbell;male;27.0;true;true
+first;Clark, Mr Walter Miller;male;27.0;false;true
+first;Daniel, Mr Robert Williams;male;27.0;true;true
+first;Davidson, Mrs Thornton (Orian Hays);female;27.0;true;true
+first;Douglas, Mrs Frederick Charles (Suzette Baxter);female;27.0;true;true
+first;Rothes, the Countess of (Noel Lucy Martha Dyer-Edwardes);female;27.0;true;true
+first;Widener, Mr Harry Elkins;male;27.0;false;true
+second;Bracken, Mr James H;male;27.0;false;true
+second;Collander, Mr Erik;male;27.0;false;true
+second;Mantvila, Rev Joseph;male;27.0;false;true
+second;Troutt, Miss Edwi Celia;female;27.0;true;true
+second;Turpin, Mrs William John (Dorothy Anne Woncott);female;27.0;false;true
+third;Attala (Kalil), Mr Solomon;male;27.0;false;false
+third;Barry, Miss Julia;female;27.0;false;true
+third;Cor, Mr Ivan;male;27.0;false;false
+third;Danoff, Mr Yoto;male;27.0;false;false
+third;Hedman, Mr Oscar;male;27.0;true;false
+third;Honkanen, Miss Elu;female;27.0;true;true
+third;Ilmakangas, Miss Ida Livija;female;27.0;false;true
+third;Jansen, Mr Carl Olof;male;27.0;true;false
+third;Jonsson, Nils Hilding;male;27.0;false;false
+third;Wirz, Mr Albert;male;27.0;false;false
+third;Yasbeck, Mr Antoni;male;27.0;false;false
+third;Zakarian, Mr Artun;male;27.0;false;false
+first;Behr, Mr Karl Howell;male;26.0;true;true
+first;Clark, Mrs Walter Miller (Virginia McDowell);female;26.0;true;true
+second;Botsford, Mr William Hull;male;26.0;false;true
+second;Caldwell, Mr Albert Francis;male;26.0;true;true
+second;Caldwell, Mrs Albert Francis (Sylvia Mae Harbaugh);female;26.0;true;true
+second;Gavey, Mr Lawrence;male;26.0;false;true
+second;Lahtinen, Mrs William (An Sylvan);female;26.0;false;true
+second;LaRoche, Mr Joseph;male;26.0;false;true
+second;Nesson, Mr Israel;male;26.0;false;true
+second;Wright, Miss Marion;female;26.0;true;true
+third;Adams, Mr John;male;26.0;false;false
+third;Andersson, Mr Johan Samuel;male;26.0;false;false
+third;Angheloff, Mr Minko;male;26.0;false;false
+third;Balkic, Mr Cerin;male;26.0;false;false
+third;Bengtsson, Mr John Viktor;male;26.0;false;false
+third;Bostandyeff, Mr Guentcho;male;26.0;false;false
+third;Bowen, Mr David;male;26.0;false;false
+third;Chronopoulos, Mr Apostolos;male;26.0;false;false
+third;Dean, Mr Bertram;male;26.0;false;false
+third;Dennis, Mr William;male;26.0;false;false
+third;Hansen, Mr Henrik Juul;male;26.0;false;false
+third;Heikkinen, Miss Lai;female;26.0;true;true
+third;Johansson, Oscar L;male;26.0;true;false
+third;Kink, Mrs Anton (Louise Heilmann);female;26.0;false;true
+third;Kink, Mr Vincenz;male;26.0;false;false
+third;Lang, Mr Fang;male;26.0;true;false
+third;Zakarian, Mr Maprieder;male;26.0;false;false
+first;Allison, Mrs Hudson JC (Bessie Waldo Daniels);female;25.0;false;true
+first;Birnbaum, Mr Jakob;male;25.0;false;true
+first;Bishop, Mr Dickinson H;male;25.0;true;true
+first;Harder, Mr George Achilles;male;25.0;true;true
+second;Bryhl, Mr Kurt Arnold Gottfrid;male;25.0;false;true
+second;Butler, Mr Regild Fenton;male;25.0;false;true
+second;Denbury, Mr Herbert;male;25.0;false;true
+second;Leyson, Mr Robert William Norman;male;25.0;false;true
+second;Richards, Mrs Sidney (Emily Hocking);female;25.0;true;true
+second;Shelley, Mrs William (Imanita);female;25.0;true;true
+second;Sobey, Mr Hayden;male;25.0;false;true
+second;Stokes, Mr Philip Joseph;male;25.0;false;true
+third;Abelseth, Mr Olaus;male;25.0;true;false
+third;Ali, Mr William;male;25.0;false;false
+third;Arnold, Mr Josef;male;25.0;false;false
+third;Dantchoff, Mr Khristo;male;25.0;false;false
+third;Delalic, Mr Regyo;male;25.0;false;false
+third;Gallagher, Mr Martin;male;25.0;false;false
+third;Ilmakangas, Miss Pieta Sofia;female;25.0;false;true
+third;Kiern, Mr John;male;25.0;false;false
+third;Krekorian, Mr Neshan;male;25.0;true;false
+third;Lindahl, Miss Agda V;female;25.0;false;true
+third;Tornquist, Mr William Henry;male;25.0;true;false
+first;Baxter, Mr Quigg Edmond;male;24.0;false;true
+first;Fortune, Miss Alice Elizabeth;female;24.0;true;true
+first;Hays, Miss Margaret Bechstein;female;24.0;true;true
+first;Smith, Mr Lucien Philip;male;24.0;false;true
+first;Snyder, Mr John Pillsbury;male;24.0;true;true
+second;Collett, Mr Sidney C Stuart;male;24.0;true;true
+second;Garside, Miss Ethel;female;24.0;true;true
+second;Giles, Mr Edgar;male;24.0;false;true
+second;Herman, Miss Alice;female;24.0;true;true
+second;Herman, Miss Kate;female;24.0;true;true
+second;Pain, Dr Alfred;male;24.0;false;true
+second;Brown, Miss Mildred;female;24.0;true;true
+third;Ahmed, Mr Ali;male;24.0;false;false
+third;Aronsson, Mr Ernst Axel Algot;male;24.0;false;false
+third;Carlsson, Mr Carl Robert;male;24.0;false;false
+third;Celotti, Mr Francesco;male;24.0;false;false
+third;Colbert, Mr Patrick;male;24.0;false;false
+third;Coleff, Mr Fotio;male;24.0;false;false
+third;Davies, Mr Alfred;male;24.0;false;false
+third;Doyle, Miss Elizabeth;female;24.0;false;true
+third;Driscoll, Miss Bridget;female;24.0;true;true
+third;Duquemin, Mr Joseph;male;24.0;true;false
+third;Haas, Miss Aloisia;female;24.0;false;true
+third;Hakkarainen, Mrs Pekko Pietari;female;24.0;true;true
+third;Johnson, Mrs Oscar W;female;24.0;false;true
+third;Kennedy, Mr John;male;24.0;false;false
+third;Lievens, Mr Rene;male;24.0;false;false
+first;Earnshaw, Mrs Boulton (Olive Potter);female;23.0;true;true
+first;Fortune, Miss Mabel;female;23.0;true;true
+first;Greenfield, Mr William Bertram;male;23.0;true;true
+first;Newell, Miss Marjorie;female;23.0;true;true
+first;Snyder, Mrs John Pillsbury (Nelle Stevenson);female;23.0;true;true
+second;Baimbrigge, Mr Charles R;male;23.0;false;true
+second;Berriman, Mr William S;male;23.0;false;true
+second;Eitemiller, Mr George Floyd;male;23.0;false;true
+second;Hamalainen, Mrs William (An);female;23.0;true;true
+second;Hocking, Mr George;male;23.0;false;true
+second;Jerwan, Mrs Amin S (Marie Thuillard);female;23.0;true;true
+second;Richard, Mr Emil;male;23.0;false;true
+second;Ware, Mr William J;male;23.0;false;true
+third;Alexander, Mr William;male;23.0;false;false
+third;Asplund, Mr John Charles;male;23.0;true;false
+third;Assam, Mr Ali;male;23.0;false;false
+third;Augustsson, Mr Albert;male;23.0;false;false
+third;Dennis, Mr Samuel;male;23.0;false;false
+third;Drapkin, Miss Jennie;female;23.0;true;true
+third;Dyker, Mr Adolf Fredrik;male;23.0;false;false
+third;Heininen, Miss Wendla Maria;female;23.0;false;true
+third;Karlsson, Mr Julius Konrad Eugen;male;23.0;false;false
+third;Melkebuk, Mrs Philemon;female;23.0;false;true
+first;Bowerman, Miss Elsie Edith;female;22.0;true;true
+first;Frolicher, Miss Marguerite;female;22.0;true;true
+first;Gibson, Miss Dorothy;female;22.0;true;true
+first;Ostby, Miss Helen Raghnild;female;22.0;true;true
+first;Payne, Mr Vivian Ponsonby;male;22.0;false;true
+second;Cook, Mrs Sele Rogers;female;22.0;false;true
+second;del Carlo, Mrs Sebastiano (Argenia Genovese);female;22.0;true;true
+second;Giles, Mr Ralph;male;22.0;false;true
+second;Karnes, Mrs J Frank (Claire Bennett);female;22.0;false;true
+second;LaRoche, Mrs Joseph (Juliet);female;22.0;true;true
+second;Oxenham, Mr Percy Thomas;male;22.0;true;true
+second;Smith (Schmidt), Mr Augustus;male;22.0;false;true
+second;Troupiansky, Mr Moses Aaron;male;22.0;false;true
+second;Waelens, Mr Achille;male;22.0;false;true
+third;Barton, Mr David;male;22.0;false;false
+third;Berglund, Mr Karl Ivar Sven;male;22.0;false;false
+third;Braund, Mr Owen Harris;male;22.0;false;false
+third;Brobek, Mr Karl Rudolf;male;22.0;false;false
+third;Connolly, Miss Kate;female;22.0;true;true
+third;Dahlberg, Miss Gerda Ulrika;female;22.0;false;true
+third;Davies, Mr Evan;male;22.0;false;false
+third;Dyker, Mrs Adolf Fredrik (An Elizabeth Judith Andersson);female;22.0;true;true
+third;Gilinski, Mr Leslie;male;22.0;false;false
+third;Hellstrom, Hilda Maria;female;22.0;true;true
+third;Hirvonen, Mrs Alexander;female;22.0;true;true
+third;Johansson, Mr Erik;male;22.0;false;false
+third;Karlsson, Mr Nils August;male;22.0;false;false
+third;Kiern, Mr Philip;male;22.0;false;false
+third;Kilgannon, Mr Thomas;male;22.0;false;false
+third;Kink, Miss Maria;female;22.0;false;true
+third;Landegren, Miss Aurora Adelia;female;22.0;true;true
+third;Larsson-Rondberg, Mr Edvard;male;22.0;false;false
+third;Vartunian, Mr David;male;22.0;true;false
+third;Vonk, Mr Jenko;male;22.0;false;false
+third;Zenni, Mr Philip;male;22.0;false;false
+first;Harder, Mrs George Achilles (Dorothy Ann);female;21.0;true;true
+first;Longley, Miss Gretchen Fiske;female;21.0;true;true
+first;Ryerson, Miss Susan (Suzette) Parker;female;21.0;true;true
+first;White, Mr Richard Frasar;male;21.0;false;true
+first;Williams, Mr Richard Norris II;male;21.0;true;true
+second;Davies, Mr Charles Henry;male;21.0;false;true
+second;Ender, Mr Ingvar;male;21.0;false;true
+second;Giles, Mr Frederick;male;21.0;false;true
+second;Hickman, Mr Stanley George;male;21.0;false;true
+second;Hocking, Miss Ellen (Nellie);female;21.0;true;true
+second;Hood, Mr Ambrose, Jr;male;21.0;false;true
+second;Phillips, Mr Robert;male;21.0;false;true
+second;Rugg, Miss Emily;female;21.0;true;true
+third;Birkeland, Mr Hans;male;21.0;false;false
+third;Buckley, Mr Daniel;male;21.0;true;false
+third;Cavan, Miss Mary;female;21.0;false;true
+third;Cavan, Mr Patrick;male;21.0;false;false
+third;Cann, Mr Ernest;male;21.0;false;false
+third;Chartens, Mr David;male;21.0;false;false
+third;Davies, Mr John;male;21.0;false;false
+third;Ford, Miss Dooli Margaret;female;21.0;false;true
+third;Hansen, Mr Henry Damsgaard;male;21.0;false;false
+third;Jussila, Miss Ai Maria;female;21.0;false;true
+third;Kalvig, Mr Johannes K Halverson;male;21.0;false;false
+third;Karlsson, Mr Eir Gervasius;male;21.0;true;false
+third;Kelly, Miss An Kate;female;21.0;true;true
+third;Kelly, Miss Mary;female;21.0;true;true
+third;Lemom, Mr Denis;male;21.0;false;false
+third;Lemon, Miss Mary;female;21.0;false;true
+third;Salander, Mr Karl Johan;male;21.0;false;false
+third;Windelov, Mr Eir;male;21.0;false;false
+first;Willard, Miss Constance;female;20.0;true;true
+second;Bryhl, Miss Dagmar;female;20.0;true;true
+second;Cotterill, Mr Harry;male;20.0;false;true
+second;Maybery, Mr Frank H;male;20.0;false;true
+second;Nourney, Mr Alfred (aka Baron von Drachstedt);male;20.0;true;true
+second;Pengelly, Mr Frederick;male;20.0;false;true
+second;Sincock, Miss Maude;female;20.0;true;true
+third;Abrahamsson, Mr August;male;20.0;true;false
+third;Alhomaki, Mr Ilmari Rudolf;male;20.0;false;false
+third;Andersen, Mr Thor Olsvigen;male;20.0;false;false
+third;Andreasson, Mr Paul Edvin;male;20.0;false;false
+third;Baccos, Mr Rafoul;male;20.0;false;false
+third;Betros, Mr Tannous;male;20.0;false;false
+third;Braf, Miss Elin Ester Maria;female;20.0;false;true
+third;Buckley, Miss Katherine;female;20.0;false;true
+third;Coelho, Mr Domingos Ferndes;male;20.0;false;false
+third;Gustafsson, Mr Alfred Ossian;male;20.0;false;false
+third;Hampe, Mr Leon;male;20.0;false;false
+third;Jensen, Mr Hans Peder;male;20.0;false;false
+third;Jussila, Miss Katrii;female;20.0;false;true
+third;Keane, Mr Andrew;male;20.0;false;false
+third;Lane, Mr Patrick;male;20.0;false;false
+third;Lindqvist, Eino William;male;20.0;true;false
+first;Astor, Mrs John Jacob (Madeleine Talmadge Force);female;19.0;true;true
+first;Bishop, Mrs Dickinson H (Helen Walton);female;19.0;true;true
+first;Fortune, Mr Charles Alexander;male;19.0;false;true
+first;Graham, Miss Margaret Edith;female;19.0;true;true
+first;Newsom, Miss Helen Monypeny;female;19.0;true;true
+second;Beane, Mrs Edward (Ethel Clarke);female;19.0;true;true
+second;Bentham, Miss Lilian W;female;19.0;true;true
+second;Carbines, Mr William;male;19.0;false;true
+second;Fahlstrom, Mr Arne Jos;male;19.0;false;true
+second;Marshall, Mrs Kate Louise Phillips;female;19.0;true;true
+second;Mellor, Mr William John;male;19.0;true;true
+second;Nicholls, Mr Joseph Charles;male;19.0;false;true
+third;Beavan, Mr William Thomas;male;19.0;false;false
+third;Burke, Mr Jeremiah;male;19.0;false;false
+third;Cohen, Mr Gurshon (Gus);male;19.0;true;false
+third;Cor, Mr Ludovik;male;19.0;false;false
+third;Crease, Mr Ernest James;male;19.0;false;false
+third;Dakic, Mr Branko;male;19.0;false;false
+third;Devaney, Miss Margaret;female;19.0;true;true
+third;Dorkings, Mr Edward Arthur;male;19.0;true;false
+third;Gustafsson, Mr Karl Gideon;male;19.0;false;false
+third;Jensen, Miss Carla Christine;female;19.0;true;true
+third;Johnson, Mr William Cahoone Jr;male;19.0;false;false
+first;Pesco, Mr Victor de Satode;male;18.0;false;true
+first;Ryerson, Miss Emily Borie;female;18.0;true;true
+first;Smith, Mrs Lucien Philip (Mary Eloise Hughes;female;18.0;true;true
+first;Taussig, Miss Ruth;female;18.0;true;true
+second;Andrew, Mr Edgar Samuel;male;18.0;false;true
+second;Bailey, Mr Percy Andrew;male;18.0;false;true
+second;Deacon, Mr Percy;male;18.0;false;true
+second;Dibden, Mr William;male;18.0;false;true
+second;Doling, Miss Elsie;female;18.0;true;true
+second;Hiltunen, Miss Marta;female;18.0;false;true
+second;sser (srallah), Mrs Nicholas;female;18.0;true;true
+second;Silven, Miss Lyyli;female;18.0;true;true
+second;Swane, Mr George;male;18.0;false;true
+third;Abraham, Mrs Joseph (Sophie Easu);female;18.0;true;true
+third;Aks, Mrs Sam (Leah Rosen);female;18.0;true;true
+third;Arnold, Mrs Josef (Josephine Frank);female;18.0;false;true
+third;Badman, Miss Emily Louisa;female;18.0;true;true
+third;Barbara, Miss Saude;female;18.0;false;true
+third;Bjorklund, Ernst Herbert;male;18.0;false;false
+third;Bradley, Miss Bridget Delia;female;18.0;true;true
+third;Burns, Miss Mary Delia;female;18.0;false;true
+third;Cacic, Mr Grego;male;18.0;false;false
+third;Chronopoulos, Mr Demetrios;male;18.0;false;false
+third;Edvardsson, Mr Gustaf Hjalmar;male;18.0;false;false
+third;Ford, Mr Edward Watson;male;18.0;false;false
+third;Hegarty, Miss Nora;female;18.0;false;true
+third;Klasen, Mr Klas Albin;male;18.0;false;false
+third;Turja, Miss An Sofia;female;18.0;true;true
+third;Van der Planke, Miss Augusta;female;18.0;false;true
+third;Wiklund, Mr Jacob Alfred;male;18.0;false;false
+first;Dick, Mrs Albert Adrian Vera Gillespie;female;17.0;true;true
+first;Pesco, Mrs Victor de Satode (Josefa de Soto);female;17.0;true;true
+first;Thayer, Mr John Borland, jr;male;17.0;true;true
+second;Ilett, Miss Bertha;female;17.0;true;true
+third;Allum, Mr Owen George;male;17.0;false;false
+third;Andersson, Miss Er;female;17.0;true;true
+third;Attalah, Miss Malaka;female;17.0;false;true
+third;Calic, Mr Peter;male;17.0;false;false
+third;Cribb, Miss Laura Alice;female;17.0;true;true
+third;Davies, Mr Joseph;male;17.0;false;false
+third;Hagardon, Miss Kate;female;17.0;false;true
+third;Jensen, Mr Svend Lauritz;male;17.0;false;false
+third;Kallio, Mr Nikolai Erland;male;17.0;false;false
+first;Hippach, Miss Jean Gertrude;female;16.0;true;true
+first;Lines, Miss Mary Conover;female;16.0;true;true
+second;Gaskell, Mr Alfred;male;16.0;false;true
+third;Abbott, Mr Rossmore Edward;male;16.0;false;false
+third;Abelseth, Miss An Karen;female;16.0;true;true
+third;Carr, Miss Helen;female;16.0;true;true
+third;Eklund, Mr Hans Linus;male;16.0;false;false
+third;Ford, Mr Neil Watson;male;16.0;false;false
+third;Gilgh, Miss Katie;female;16.0;true;true
+third;Goodwin, Miss Lillian A;female;16.0;false;true
+first;Madill, Miss Georgette Alexandra;female;15.0;true;true
+second;Brown, Miss Edith E;female;15.0;true;true
+third;Banoura, Miss Ayout;female;15.0;true;true
+third;Van der Planke, Mr Leon;male;15.0;false;false
+third;Yasbeck, Mrs Antoni;female;15.0;true;true
+first;Carter, Miss Lucile Polk;female;14.0;true;true
+second;Sweet, Mr George;male;14.0;false;true
+third;Goodwin, Mr Charles E;male;14.0;false;false
+third;Vestrom, Miss Hulda Amanda Adolfi;female;14.0;false;true
+first;Ryerson, Master John Borie;male;13.0;true;true
+second;Mellenger, Miss Madeleine Violet;female;13.0;true;true
+third;Abbott, Master Eugene Joseph;male;13.0;false;false
+third;Asplund, Master Filip Oscar;male;13.0;false;false
+second;Becker, Miss Ruth Elizabeth;female;12.0;true;true
+second;Watt, Miss Bertha;female;12.0;true;true
+first;Carter, Master William T II;male;11.0;true;true
+third;Andersson, Miss Sigrid Elizabeth;female;11.0;false;true
+third;Goodwin, Master William F;male;11.0;false;false
+third;Goodwin, Miss Jessie A;female;10.0;false;true
+third;Van Impe, Miss Catharine;female;10.0;false;true
+third;Andersson, Miss Ingeborg Constancia;female;9.0;false;true
+third;Asplund, Master Clarence Gustaf Hugo;male;9.0;false;false
+third;Boulos, Miss Laura;female;9.0;false;true
+third;Coutts, Master William Leslie;male;9.0;true;false
+third;Ford, Miss Maggie;female;9.0;false;true
+third;Goldsmith, Master Frank John William;male;9.0;true;false
+third;Goodwin, Master Harold V;male;9.0;false;false
+second;Collyer, Miss Marjorie;female;8.0;true;true
+second;Davis, Master John Morgan;male;8.0;true;true
+second;Drew, Master Marshall Brines;male;8.0;true;true
+second;Quick, Miss Winifred Vera;female;8.0;true;true
+second;Hart, Miss Eva Miriam;female;7.0;true;true
+first;Spedden, Master Robert Douglas;male;6.0;true;true
+second;Harper, Miss Ni;female;6.0;true;true
+third;Andersson, Miss Ebba Iris;female;6.0;false;true
+third;Boulos, Master Akar;male;6.0;false;false
+third;Goodwin, Master Sidney L;male;6.0;false;false
+third;Asplund, Master Carl Edgar;male;5.0;false;false
+third;Asplund, Miss Lillian Gertrud;female;5.0;true;true
+third;Emanuel, Miss Virginia Ethel;female;5.0;true;true
+first;Dodge, Master Washington;male;4.0;true;true
+second;Becker, Miss Marion Louise;female;4.0;true;true
+second;Wells, Miss Joan;female;4.0;true;true
+third;Andersson, Master Sigvard Harald Elias;male;4.0;false;false
+third;Johnson, Master Harold Theodor;male;4.0;true;false
+third;Karun, Miss An Mary;female;4.0;true;true
+third;Kink, Miss Louise Gretchen;female;4.0;true;true
+second;LaRoche, Miss Simonne;female;3.0;true;true
+second;vratil, Master Michel M;male;3.0;true;true
+second;Richards, Master William Rowe;male;3.0;true;true
+third;Aspland, Master Edvin Rojj Felix;male;3.0;true;false
+third;Baclini, Miss Eugenie;female;3.0;true;true
+third;Coutts, Master Neville;male;3.0;true;false
+first;Allison, Miss Helen Loraine;female;2.0;false;true
+second;Mallet, Master Andre;male;2.0;true;true
+second;vratil, Master Edmond Roger;male;2.0;true;true
+second;Quick, Miss Phyllis May;female;2.0;true;true
+second;Wells, Master Ralph Lester;male;2.0;true;true
+third;Andersson, Miss Ellis An Maria;female;2.0;false;true
+third;Hirvonen, Miss Hildur E;female;2.0;false;true
+third;Klasen, Miss Gertrud Emilia;female;1.5;false;true
+third;Sandstrom, Miss Beatrice Irene;female;1.5;false;true
+second;Becker, Master Richard F;male;1.0;true;true
+second;Hamalainen, Master Viljo;male;1.0;true;true
+second;LaRoche, Miss Louise;female;1.0;true;true
+third;Dean, Master Bertram Vere;male;1.0;true;false
+third;Johnson, Miss Eleanor Ileen;female;1.0;true;true
+first;Allison, Master Hudson Trevor;male;0.92;true;true
+second;Caldwell, Master Alden Gates;male;0.83;true;true
+third;Aks, Master Philip;male;0.83;true;false
+second;Richards, Master George Sidney;male;0.8;true;true
+third;Danbom, Master Gilbert Sigvard Emanuel;male;0.33;false;false
+third;Dean, Miss Elizabeth Gladys (Millve);female;0.17;true;true
+first;Aubert, Mrs Leontine Pauline;female;-1.0;true;true
+first;Barkworth, Mr Algernon H;male;-1.0;true;true
+first;Baumann, Mr John D;male;-1.0;false;true
+first;Borebank, Mr John James;male;-1.0;false;true
+first;Bradley, Mr George;male;-1.0;true;true
+first;Brewe, Dr Arthur Jackson;male;-1.0;false;true
+first;Calderhead, Mr Edward P;male;-1.0;true;true
+first;Carrau, Mr Francisco M;male;-1.0;false;true
+first;Carrau, Mr Jose Pedro;male;-1.0;false;true
+first;Cassebeer, Mrs Henry Arthur jr (Genevieve Fosdick);female;-1.0;true;true
+first;Cavendish, Mrs Tyrell William Julia Florence Siegel;female;-1.0;true;true
+first;Cherry, Miss Gladys;female;-1.0;true;true
+first;Chevre, Mr Paul;male;-1.0;true;true
+first;Chibll (Bowerman), Mrs Edith Martha;female;-1.0;true;true
+first;Chisholm, Mr Roderick Robert;male;-1.0;false;true
+first;Clifford, Mr George Quincy;male;-1.0;false;true
+first;Colley, Mr Edward Pomeroy;male;-1.0;false;true
+first;Crafton, Mr John Bertram;male;-1.0;false;true
+first;Daly, Mr Peter Denis;male;-1.0;true;true
+first;de Villiers, Madame Berthe;female;-1.0;true;true
+first;Dodge, Dr Washington;male;-1.0;true;true
+first;Dodge, Mrs Washington (Ruth Vidaver);female;-1.0;true;true
+first;Flegenheim, Mrs Alfred (Antoinette);female;-1.0;true;true
+first;Flynn, Mr John Irving;male;-1.0;true;true
+first;Franklin, Mr Thomas Parham;male;-1.0;false;true
+first;Frauenthal, Mrs Henry William (Clara Heinsheimer);female;-1.0;true;true
+first;Goldenberg, Mrs Samuel L (Edwiga Grabowsko);female;-1.0;true;true
+first;Hawksford, Mr Walter James;male;-1.0;true;true
+first;Head, Mr Christopher;male;-1.0;false;true
+first;Hilliard, Mr Herbert Henry;male;-1.0;false;true
+first;Hipkins, Mr William Edward;male;-1.0;false;true
+first;Hoyt, Mr William F;male;-1.0;false;true
+first;Julian, Mr Henry Forbes;male;-1.0;false;true
+first;Kenyon, Mrs Frederick R (Marion);female;-1.0;true;true
+first;Klaber, Mr Herman;male;-1.0;false;true
+first;Leader, Dr Alice Farnham;female;-1.0;true;true
+first;Lewy, Mr Ervin G;male;-1.0;false;true
+first;Lingrey, Mr Edward;male;-1.0;false;true
+first;Marechal, Mr Pierre;male;-1.0;true;true
+first;Marvin, Mr Daniel Warner;male;-1.0;false;true
+first;Marvin, Mrs Daniel Warner (Mary Graham Carmichael Farquarson);female;-1.0;true;true
+first;Meyer, Mrs Edgar Joseph (Leila Saks);female;-1.0;true;true
+first;Mock, Mr Philip E;male;-1.0;true;true
+first;Omont, Mr A Fernd;male;-1.0;true;true
+first;Parr, Mr William Henry Marsh;male;-1.0;false;true
+first;Partner, Mr Austin;male;-1.0;false;true
+first;Pears, Mr Thomas;male;-1.0;false;true
+first;Pears, Mrs Thomas (Edith);female;-1.0;true;true
+first;Reuchlin, Jonkheer John George;male;-1.0;false;true
+first;Rheims, Mr George Lucien;male;-1.0;true;true
+first;Romaine, Mr Charles Hallace;male;-1.0;true;true
+first;Rood, Mr Hugh R;male;-1.0;false;true
+first;Ross, Mr John Hugo;male;-1.0;false;true
+first;Rowe, Mr Alfred G;male;-1.0;false;true
+first;Saalfeld, Mr Adolphe;male;-1.0;true;true
+first;Salomon, Mr Abraham L;male;-1.0;true;true
+first;Schabert, Mrs Paul (Emma Mock);female;-1.0;true;true
+first;Smith, Mr Richard William;male;-1.0;false;true
+first;Spencer, Mrs William Augustus (Marie Eugenie);female;-1.0;true;true
+first;Stewart, Mr Albert A;male;-1.0;false;true
+first;Taylor, Mrs Elmer Zebley (Juliet Cummins Wright);female;-1.0;true;true
+first;Thorne, Mrs Gertrude Maybelle;female;-1.0;true;true
+first;Uruchurtu, Mr Manuel E;male;-1.0;false;true
+first;Williams, Mr Fletcher Lambert;male;-1.0;false;true
+first;Woolner, Mr Hugh;male;-1.0;true;true
+first;Wright, Mr George;male;-1.0;false;true
+first;Barber, Ms;female;-1.0;true;true
+first;Bazzani, Ms Albi;female;-1.0;true;true
+first;Bidois, Miss Rosalie;female;-1.0;true;true
+first;Bird, Ms Ellen;female;-1.0;true;true
+first;Bissetti, Ms Amelia;female;-1.0;true;true
+first;Burns, Ms Elizabeth Margaret;female;-1.0;true;true
+first;Chaudanson, Ms         Victorine;female;-1.0;true;true
+first;Cleaver, Ms Alice;female;-1.0;true;true
+first;Daniels, Ms Sarah;female;-1.0;true;true
+first;Endres, Miss Caroline Louise;female;-1.0;true;true
+first;Farthing, Mr John;male;-1.0;false;true
+first;Fleming, Ms Margaret;female;-1.0;false;true
+first;Francatelli, Ms Laura Mabel;female;-1.0;true;true
+first;Fry, Mr Richard;male;-1.0;false;true
+first;Geiger, Miss Emily;female;-1.0;true;true
+first;Giglio, Mr Victor;male;-1.0;false;true
+first;Harrington, Mr Charles;male;-1.0;false;true
+first;Hassah, Mr Hamad;male;-1.0;false;true
+first;Icabad (Icabod), Ms;female;-1.0;true;true
+first;Kenchen, Ms Amelia;female;-1.0;true;true
+first;LeRoy, Miss Berthe;female;-1.0;true;true
+first;Lesneur, Mr Gustave;male;-1.0;false;true
+first;Maloney, Ms;female;-1.0;true;true
+first;Oliva, Mlle;female;-1.0;false;true
+first;Pericault, Ms;female;-1.0;true;true
+first;Robbins, Mr Victor;male;-1.0;false;true
+first;Segesser, Mlle Emma;female;-1.0;true;true
+first;Seredeca, Ms;female;-1.0;false;true
+first;Ward, Ms An;female;-1.0;false;true
+first;Wilson, Ms Helen;female;-1.0;true;true
+second;Andrew, Mr Frank;male;-1.0;false;true
+second;Bowenur, Mr Solomon;male;-1.0;false;true
+second;Byles, Rev Thomas Roussel D;male;-1.0;false;true
+second;Campbell, Mr William;male;-1.0;false;true
+second;Christy, Mrs Alice Frances;female;-1.0;true;true
+second;Christy, Miss Julie;female;-1.0;true;true
+second;Clarke, Mrs Charles V (Ada Maria);female;-1.0;true;true
+second;Corey, Mrs Percy C (Mary Phyllis Elizabeth Miller);female;-1.0;false;true
+second;Cunningham, Mr Alfred Fleming;male;-1.0;false;true
+second;de Brito, Mr Jose Joaquim;male;-1.0;false;true
+second;Downton (?Douton), Mr William James;male;-1.0;false;true
+second;Duran y More, Miss Asuncion;female;-1.0;true;true
+second;Duran y More, Miss Florenti;female;-1.0;true;true
+second;Faunthorpe, Mr Harry;male;-1.0;false;true
+second;Faunthorpe, Mrs Lizzie (see Wilkinson, E);female;-1.0;true;true
+second;Fillbrook, Mr Charles;male;-1.0;false;true
+second;Frost, Mr Anthony (Archie) W;male;-1.0;false;true
+second;Gill, Mr John W;male;-1.0;false;true
+second;Harris, Mr Walter;male;-1.0;false;true
+second;Hewlett, Mrs Mary D;female;-1.0;true;true
+second;Hocking, Mr Samuel James;male;-1.0;false;true
+second;Howard, Mr Benjamin;male;-1.0;false;true
+second;Howard, Mrs Benjamin (Ellen Truelove);female;-1.0;false;true
+null;Jacobsohn Mr Samuel;male;-1.0;false;false
+second;Jacobsohn, Mrs Sidney Samuel (Amy Frances Christy);female;-1.0;true;true
+second;Jarvis, Mr John Denzil;male;-1.0;false;true
+second;Jefferys, Mr Clifford;male;-1.0;false;true
+second;Jefferys, Mr Ernest;male;-1.0;false;true
+second;Jenkin, Mr Stephen Curnow;male;-1.0;false;true
+second;Kantor, Mrs Sii (Miriam Sternim);female;-1.0;true;true
+second;Keane, Mr Daniel;male;-1.0;false;true
+second;Keane, Miss Nora A;female;-1.0;true;true
+second;Kirkland, Rev Charles Leord;male;-1.0;false;true
+second;Knight, Mr Robert;male;-1.0;false;true
+second;Lamb, Mr John James;male;-1.0;false;true
+second;Lehmann, Miss Bertha;female;-1.0;true;true
+second;Leitch, Miss Jessie;female;-1.0;true;true
+second;Levy, Mr Rene Jacques;male;-1.0;false;true
+second;Lingan, Mr John;male;-1.0;false;true
+second;Louch, Mrs Charles Alexander (Alice Adelaide);female;-1.0;true;true
+second;Malachard, Mr Noel;male;-1.0;false;true
+second;Mallet, Mr Albert;male;-1.0;false;true
+second;Mallet, Mrs Albert (Antoinette);female;-1.0;true;true
+second;Mangiavacchi, Mr Serafino Emilio;male;-1.0;false;true
+second;McCrie, Mr James Matthew;male;-1.0;false;true
+second;Morley, Mr William;male;-1.0;false;true
+second;Mudd, Mr Thomas C;male;-1.0;false;true
+second;Norman, Mr Robert Douglas;male;-1.0;false;true
+second;Padro y Manent, Mr Julian;male;-1.0;true;true
+second;Pallas y Castello, Mr Emilio;male;-1.0;true;true
+second;Parkes, Mr Francis (Frank);male;-1.0;false;true
+second;Portaluppi, Mr Emilio;male;-1.0;true;true
+second;Pulbaum, Mr Frank;male;-1.0;false;true
+second;Rogers, Mr Harry;male;-1.0;false;true
+second;Sedgwick, Mr Charles Frederick Waddington;male;-1.0;false;true
+second;Sharp, Mr Percival;male;-1.0;false;true
+second;Smith, Miss Marion;female;-1.0;true;true
+second;Trout, Mrs William H (Jessie L);female;-1.0;true;true
+second;Watson, Mr Ennis Hastings;male;-1.0;false;true
+second;West, Miss Barbara J;female;-1.0;true;true
+second;West, Miss Constance Mirium;female;-1.0;true;true
+second;Wheadon, Mr Edward;male;-1.0;false;true
+second;Wheeler, Mr Edwin;male;-1.0;false;true
+second;Wheeler, Mr Frederick;male;-1.0;false;true
+second;Wilkinson, Mrs Elizabeth Anne;female;-1.0;true;true
+second;Williams, Mr Charles Eugene;male;-1.0;true;true
+second;Yrois, Miss Henriette;female;-1.0;false;true
+second;Pernot, Mr Rene;male;-1.0;false;true
+third;Assaf, Mr Gerios;male;-1.0;false;false
+third;Baclini, Miss Helene;female;-1.0;true;true
+third;Baclini, Miss Maria;female;-1.0;true;true
+third;Baclini, Mrs Solomon (Latifa);female;-1.0;true;true
+third;Boulos, Mr Han;male;-1.0;false;false
+third;Boulos, Mrs Joseph (Sulta);female;-1.0;false;true
+third;Bourke, Miss Mary;female;-1.0;false;true
+third;Brahim, Mr Youssef;male;-1.0;false;false
+third;Cacic, Mr Manda;male;-1.0;false;false
+third;Caram (Kareem), Mr Joseph;male;-1.0;false;false
+third;Caram (Kareem), Mrs Joseph (Maria Elias);female;-1.0;false;true
+third;Cassem, Mr ssef Belmenly;male;-1.0;true;false
+third;Chebab, Mr Emir Farres;male;-1.0;false;false
+third;Connors, Mr Patrick;male;-1.0;false;false
+third;Daher, Mr Tannous;male;-1.0;false;false
+third;Davison, Mr Thomas Henry;male;-1.0;false;false
+third;Davison, Mrs Thomas Henry (Mary Finck);female;-1.0;true;true
+third;Denkoff, Mr Mito;male;-1.0;false;false
+third;Dibo, Mr Elias;male;-1.0;false;false
+third;Drazonovic, Mr Josef;male;-1.0;false;false
+third;Econovic, Mr Joso;male;-1.0;false;false
+third;Elias, Mr Elias;male;-1.0;false;false
+third;Elias, Mr John;male;-1.0;false;false
+third;Elias, Mr Joseph;male;-1.0;false;false
+third;Emmeth, Mr Thomas;male;-1.0;false;false
+third;Everett, Thomas James;male;-1.0;false;false
+third;Farrell, Mr James;male;-1.0;false;false
+third;Finoli, Mr Luigi;male;-1.0;true;false
+third;Fischer, Mr Eberhard Telander;male;-1.0;false;false
+third;Flynn, Mr James;male;-1.0;false;false
+third;Flynn, Mr John;male;-1.0;false;false
+third;Foley, Mr Joseph;male;-1.0;false;false
+third;Foley, Mr William;male;-1.0;false;false
+third;Foo, Mr Choong;male;-1.0;true;false
+third;Ford, Mr Arthur;male;-1.0;false;false
+third;Fox, Mr Patrick;male;-1.0;false;false
+third;Franklin, Mr Charles;male;-1.0;false;false
+third;Garfirth, Mr John;male;-1.0;false;false
+third;Glynn, Miss Mary Agatha;female;-1.0;true;true
+third;Goldsmith, Mrs Frank John (Emily A Brown);female;-1.0;true;true
+third;Guest, Mr Robert;male;-1.0;false;false
+third;Hagland, Mr Ingvald Olsen;male;-1.0;false;false
+third;Hagland, Mr Konrad Mathias Reiersen;male;-1.0;false;false
+third;Harknett, Miss Alice;female;-1.0;false;true
+third;Harmer, Mr Abraham;male;-1.0;false;false
+third;Hart, Mr Henry;male;-1.0;false;false
+third;Hassan, Mr M Houssein;male;-1.0;false;false
+third;Healy, Miss Nora;female;-1.0;false;true
+third;Hee, Mr Ling;male;-1.0;false;false
+third;Hemming, Miss Nora;female;-1.0;false;true
+third;Hendekovic, Mr Igz;male;-1.0;false;false
+third;Henery, Delia;female;-1.0;false;true
+third;Holthen, Mr Johan Martin;male;-1.0;false;false
+third;Horgan, Mr John;male;-1.0;false;false
+third;Howard, Miss May;female;-1.0;true;true
+third;Hyman, Mr Abraham;male;-1.0;true;false
+third;Ilieff, Mr Ylio;male;-1.0;false;false
+third;Ivanoff, Mr Konio;male;-1.0;false;false
+third;Jardin, Mr Jose Netto;male;-1.0;false;false
+third;Jermyn, Miss Annie;female;-1.0;true;true
+third;Johannesen-Bratthammer, Mr Bernt;male;-1.0;false;false
+third;Johnston, Mr Andrew G;male;-1.0;false;false
+third;Johnston, Mrs Andrew G;female;-1.0;false;true
+third;Johnston, Miss Catherine H;female;-1.0;false;true
+third;Johnston, Master William A;male;-1.0;false;false
+third;Jonkoff, Mr Lazor;male;-1.0;false;false
+third;Kassem, Mr Fared;male;-1.0;false;false
+third;Keefe, Mr Arthur;male;-1.0;false;false
+third;Kekic, Mr Tido;male;-1.0;false;false
+third;Khalil, Mr Betros;male;-1.0;false;false
+third;Khalil, Mrs Betros;female;-1.0;false;true
+third;Khalil, Mr Saad;male;-1.0;false;false
+third;Kraeff, Mr Theodor;male;-1.0;false;false
+third;Lahowd, Mr Sarkis;male;-1.0;false;false
+third;Laleff, Mr Kristo;male;-1.0;false;false
+third;Lam, Mr Ali;male;-1.0;true;false
+third;Lam, Mr Len;male;-1.0;false;false
+third;Leeni, Mr Fahim;male;-1.0;true;false
+third;Lefebre, Mrs Frank;female;-1.0;false;true
+third;Lefebre, Master Henry;male;-1.0;false;false
+third;Lefebre, Miss Ida;female;-1.0;false;true
+third;Lefebre, Miss Jeannie;female;-1.0;false;true
+third;Lefebre, Miss Mathilde;female;-1.0;false;true
+third;Lemberopolous, Mr Peter L;male;-1.0;false;false
+third;Linehan, Mr Michael;male;-1.0;false;false
+third;Ling, Mr Lee;male;-1.0;false;false
+third;Lithman, Mr Simon;male;-1.0;false;false
+third;Lobb, Mr William Arthur;male;-1.0;false;false
+third;Lobb, Mrs William Arthur;female;-1.0;false;true
+third;Lockyer, Mr Edward;male;-1.0;false;false
+third;Lovell, Mr John;male;-1.0;false;false
+third;Lulich, Mr Nicola;male;-1.0;true;false
+third;Lundahl, Mr Johan;male;-1.0;false;false
+third;Lundin, Miss Olga Elida;female;-1.0;true;true
+third;Lundstrom, Mr Thure Edvin;male;-1.0;false;false
+third;Lyntakoff, Mr Stanko;male;-1.0;false;false
+third;MacKay, Mr George William;male;-1.0;false;false
+third;Madigan, Miss Margaret;female;-1.0;true;true
+third;Madsen, Mr Frithiof;male;-1.0;false;false
+third;Maenpaa, Mr Matti Alexanteri;male;-1.0;false;false
+third;Mahon, Miss Delia;female;-1.0;false;true
+third;Maisner, Mr Simon;male;-1.0;false;false
+third;Makinen, Mr Kalle Edvard;male;-1.0;false;false
+third;Mamee, Mr Han;male;-1.0;true;false
+third;Mangan, Miss Mary;female;-1.0;false;true
+third;Mannion, Miss Margareth;female;-1.0;true;true
+third;Mansour, Mr Han;male;-1.0;false;false
+third;Mardirosian, Mr Sarkis;male;-1.0;false;false
+third;Marinko, Mr Dmitri;male;-1.0;false;false
+third;Markim, Mr Johann;male;-1.0;false;false
+third;Markoff, Mr Marin;male;-1.0;false;false
+third;Masselmany, Mrs Fatima;female;-1.0;true;true
+third;Matinoff, Mr Nicola;male;-1.0;false;false
+third;McCarthy, Miss Katie;female;-1.0;true;true
+third;McCormack, Mr Thomas J;male;-1.0;false;false
+third;McCoy, Miss Agnes;female;-1.0;false;true
+third;McCoy, Miss Alice;female;-1.0;false;true
+third;McCoy, Mr Berrd;male;-1.0;false;false
+third;McDermott, Miss Delia;female;-1.0;false;true
+third;McElroy, Mr Michael;male;-1.0;false;false
+third;McGovern, Mrs Hugh;female;-1.0;true;true
+third;McGowan, Miss An;female;-1.0;false;true
+third;McGowan, Miss Katherine;female;-1.0;false;true
+third;McMahon, Mr Martin;male;-1.0;false;false
+third;Mcmee, Mr Neal;male;-1.0;false;false
+third;Mcmee, Mrs Neal;female;-1.0;false;true
+third;Meanwell, Miss Marion Ogden;female;-1.0;false;true
+third;Mechen, Mr John;male;-1.0;false;false
+third;Meek, Mrs Thomas;female;-1.0;false;true
+third;Meo, Mr Alfonso;male;-1.0;false;false
+third;Midtsjo, Mr Karl Albert;male;-1.0;true;false
+third;Mihoff, Mr Stoytcho;male;-1.0;false;false
+third;Miles, Mr Frank;male;-1.0;false;false
+third;Mineff, Mr Ivan;male;-1.0;false;false
+third;Minkoff, Mr Lazar;male;-1.0;false;false
+third;Mirko, Mr Dika;male;-1.0;false;false
+third;Mitkoff, Mr Mito;male;-1.0;false;false
+third;Mocklare, Miss Helen Mary;female;-1.0;true;true
+third;Moen, Mr Sigurd H;male;-1.0;false;false
+third;Moor, Mrs Beila;female;-1.0;true;true
+third;Moor, Master Meier;male;-1.0;false;false
+third;Moore, Mr Leord Charles;male;-1.0;false;false
+third;Moran, Miss Bertha;female;-1.0;true;true
+third;Moran, Mr Daniel J;male;-1.0;false;false
+third;Moran, Mr James;male;-1.0;false;false
+third;Morley, Mr Henry Samuel;male;-1.0;false;false
+third;Morrow, Mr Thomas Rowan;male;-1.0;false;false
+third;Moubarek (Borak), Mr Han (John);male;-1.0;true;false
+third;Moubarek, Mrs George;female;-1.0;false;true
+third;Moubarek, Master George;male;-1.0;false;false
+third;Moubarek, Master William George;male;-1.0;false;false
+third;Moss, Albert Johan;male;-1.0;false;false
+third;Moussa, Mrs Mantoura Baloics;female;-1.0;false;true
+third;Moutal, Mr Rahamin;male;-1.0;false;false
+third;Mullins, Miss Katie;female;-1.0;true;true
+third;Mulvihill, Miss Bertha E;female;-1.0;false;true
+third;Murdlin, Mr Joseph;male;-1.0;false;false
+third;Murphy, Miss Katherine;female;-1.0;false;true
+third;Murphy, Miss Margaret;female;-1.0;false;true
+third;Murphy, Miss Nora;female;-1.0;false;true
+third;Myhrman, Mr Pehr Fabian Oliver Malkolm;male;-1.0;false;false
+third;ckid, Miss Maria;female;-1.0;true;true
+third;ckid, Mr Said;male;-1.0;false;false
+third;ckid, Mrs Said;female;-1.0;false;true
+third;hill, Mr Toufik;male;-1.0;false;false
+third;idenoff, Mr Penko;male;-1.0;false;false
+third;ncarrow, W H;male;-1.0;false;false
+third;Niklasen, Sander;male;-1.0;false;false
+third;Nosworthy, Richard C;male;-1.0;false;false
+third;jib, Miss Adele Kiamie;female;-1.0;true;true
+third;ncarrow, Mr William Henry;male;-1.0;false;false
+third;nkoff, Mr Minko;male;-1.0;false;false
+third;sr, Mr Mustafa;male;-1.0;false;false
+third;ssr, Mr Saade Jean;male;-1.0;false;false
+third;ughton, Miss Hanh;female;-1.0;false;true
+third;Nemaugh, Mr Robert;male;-1.0;false;false
+third;Nenkoff, Mr Christo;male;-1.0;false;false
+third;Nicola-Yarred, Miss Jamila;female;-1.0;true;true
+third;Nicola-Yarred, Master Elias;male;-1.0;false;false
+third;Nieminen, Miss Manta Josefi;female;-1.0;false;true
+third;Niklasson, Mr Samuel;male;-1.0;false;false
+third;Nilsson, Mr August Ferdind;male;-1.0;false;false
+third;Nilsson, Miss Berta Olivia;female;-1.0;true;true
+third;Nilsson, Miss Helmi Josefi;female;-1.0;false;true
+third;Niskanen, Mr Johan;male;-1.0;false;false
+third;Nosworthy, Mr Richard Cater;male;-1.0;false;false
+third;Novel, Mansouer;male;-1.0;true;false
+third;Nysten, Miss An;female;-1.0;false;true
+third;Nysveen, Mr Johan H;male;-1.0;false;false
+third;O'Brien, Mr Denis;male;-1.0;false;false
+third;O'Brien, Mr Thomas;male;-1.0;false;false
+third;O'Brien, Mrs Thomas;female;-1.0;true;true
+third;O'Connell, Mr Patrick D;male;-1.0;false;false
+third;O'Connor, Mr Maurice;male;-1.0;false;false
+third;O'Connor, Mr Patrick;male;-1.0;false;false
+third;Odahl, Mr Nils Martin;male;-1.0;true;false
+third;O'Dwyer, Miss Nellie;female;-1.0;false;true
+third;Ohman, Miss Velin;female;-1.0;false;true
+third;O'Keefe, Mr Patrick;male;-1.0;false;false
+third;OLeary, Miss Norah;female;-1.0;false;true
+third;Olsen, Master Arthur;male;-1.0;false;false
+third;Olsen, Mr Charlie (Carl);male;-1.0;false;false
+third;Olsen, Mr Henry Margido;male;-1.0;false;false
+third;Olsen, Mr Ole M;male;-1.0;false;false
+third;Olsson, Miss Elida;female;-1.0;false;true
+third;Olsson, Mr Nils Johan;male;-1.0;false;false
+third;Olsson, Mr Oscar Johansson;male;-1.0;true;false
+third;O'Neill, Miss Bridget;female;-1.0;false;true
+third;Oreskovic, Mr Jeko;male;-1.0;false;false
+third;Oreskovic, Mr Luka;male;-1.0;false;false
+third;Oreskovic, Mr Maria;male;-1.0;false;false
+third;Osen, Mr Olof Elon;male;-1.0;false;false
+third;Osman, Miss Maria;female;-1.0;true;true
+third;O'Sullivan, Miss Bridget;female;-1.0;false;true
+third;Panula, Mr Ernesti Arvid;male;-1.0;false;false
+third;Panula, Mr Jaako Arnold;male;-1.0;false;false
+third;Panula, Master Juha Niilo;male;-1.0;false;false
+third;Panula, Mrs John;female;-1.0;false;true
+third;Panula, Master Urho Abraham;male;-1.0;false;false
+third;Panula, Master William;male;-1.0;false;false
+third;Pasic, Mr Jakob;male;-1.0;false;false
+third;Paulner, Mr Uscher;male;-1.0;false;false
+third;Paulsson, Master Gosta Leord;male;-1.0;false;false
+third;Paulsson, Mrs Nils;female;-1.0;false;true
+third;Paulsson, Master Paul Folke;male;-1.0;false;false
+third;Paulsson, Miss Sti Viola;female;-1.0;false;true
+third;Paulsson, Miss Torborg Danira;female;-1.0;false;true
+third;Pavlovic, Mr Stefo;male;-1.0;false;false
+third;Peacock, Master Alfred Edward;male;-1.0;false;false
+third;Peacock, Mrs Benjamin;female;-1.0;false;true
+third;Peacock, Miss Treasteall;female;-1.0;false;true
+third;Pearce, Mr Ernest;male;-1.0;false;false
+third;Pecruic, Mr Mate;male;-1.0;false;false
+third;Pecruic, Mr Tome;male;-1.0;false;false
+third;Pedersen, Mr Olaf;male;-1.0;false;false
+third;Peduzzi, Mr Joseph;male;-1.0;false;false
+third;Pekoniemi, Mr Edvard;male;-1.0;true;false
+third;Peltomaki, Nikolai Johannes;male;-1.0;false;false
+third;Perkin, Mr John Henry;male;-1.0;false;false
+third;Persson, Mr Ernst Ulrik;male;-1.0;true;false
+third;Peter (Joseph), Miss Mary;female;-1.0;false;true
+third;Peter (Joseph), Mrs Catherine;female;-1.0;false;true
+third;Peter (Joseph), Master Michael J;male;-1.0;false;false
+third;Peters, Miss Katie;female;-1.0;false;true
+third;Petersen, Mr Marius;male;-1.0;false;false
+third;Petranec, Miss Matilda;female;-1.0;false;true
+third;Petroff, Mr Nedeca;male;-1.0;false;false
+third;Petroff, Mr Pentcho;male;-1.0;false;false
+third;Pettersson, Miss Ellen talia;female;-1.0;false;true
+third;Peterson, Mr Johan Emil;male;-1.0;false;false
+third;Pickard (Trembisky), Mr Berk;male;-1.0;true;false
+third;Plotcharsky, Mr Vasil;male;-1.0;false;false
+third;Potchett, Mr George;male;-1.0;false;false
+third;Radeff, Mr Alexander;male;-1.0;false;false
+third;Raibid, Mr Razi;male;-1.0;false;false
+third;Reed, Mr James George;male;-1.0;false;false
+third;Reynolds, Mr Harold;male;-1.0;false;false
+third;Rice, Master Albert;male;-1.0;false;false
+third;Rice, Master Arthur;male;-1.0;false;false
+third;Rice, Master George;male;-1.0;false;false
+third;Rice, Master Eric;male;-1.0;false;false
+third;Rice, Master Eugene;male;-1.0;false;false
+third;Rice, Mrs William;female;-1.0;false;true
+third;Riihiivouri, Miss Sanni;female;-1.0;false;true
+third;Rintamaki, Mr Matti;male;-1.0;false;false
+third;Riordan, Miss Hanh;female;-1.0;true;true
+third;Risien, Mr Samuel;male;-1.0;false;false
+third;Risien, Mrs Samuel;female;-1.0;false;true
+third;Robins, Mr Alexander A;male;-1.0;false;false
+third;Robins, Mrs Alexander A;female;-1.0;false;true
+third;Rommetvedt, Mr Karl Kristian Knut;male;-1.0;false;false
+third;Rogers, Mr William John;male;-1.0;false;false
+third;Rosblom, Mrs Viktor;female;-1.0;false;true
+third;Rosblom, Miss Salli Hele;female;-1.0;false;true
+third;Rosblom, Mr Viktor Rickard;male;-1.0;false;false
+third;Roth, Miss Sarah;female;-1.0;true;true
+third;Rouse, Mr Richard Henry;male;-1.0;false;false
+third;Rush, Mr Alfred George John;male;-1.0;false;false
+third;Ryan, Mr Edward Ryan;male;-1.0;true;false
+third;Ryan, Mr Patrick;male;-1.0;false;false
+third;Saad, Mr Amin;male;-1.0;false;false
+third;Saad, Khalil;male;-1.0;true;false
+third;Sadlier, Mr Matthew;male;-1.0;false;false
+third;Sadowitz, Mr Harry;male;-1.0;false;false
+third;Sage, Miss Ada;female;-1.0;false;true
+third;Sage, Miss Constance;female;-1.0;false;true
+third;Sage, Miss Dorothy;female;-1.0;false;true
+third;Sage, Mr Douglas;male;-1.0;false;false
+third;Sage, Mr Frederick;male;-1.0;false;false
+third;Sage, Mr George;male;-1.0;false;false
+third;Sage, Mr John;male;-1.0;false;false
+third;Sage, Mrs John;female;-1.0;false;true
+third;Sage, Miss Stella;female;-1.0;false;true
+third;Sage, Thomas (child);male;-1.0;false;false
+third;Sage, Master William;male;-1.0;false;false
+third;Salkjelsvik, Miss An;female;-1.0;true;true
+third;Salonen, Mr Johan Werner;male;-1.0;false;false
+third;Samaan, Mr Elias;male;-1.0;false;false
+third;Samaan, Mr Han;male;-1.0;false;false
+third;Samaan, Mr Youssef;male;-1.0;false;false
+third;Sandstrom, Miss Hjalmar;female;-1.0;true;true
+third;Sandstrom, Miss Marguerite Rut;female;-1.0;false;true
+third;Sather, Simon Sivertsen;male;-1.0;false;false
+third;Saundercock, William Henry;male;-1.0;false;false
+third;Sawyer, Mr Frederick;male;-1.0;false;false
+third;Scanlan, Mr James;male;-1.0;false;false
+third;Sdycoff, Mr Todor;male;-1.0;false;false
+third;Seman Master Betros;male;-1.0;false;false
+third;Serota, Mr Maurice;male;-1.0;false;false
+third;Shaughnesay, Mr Patrick;male;-1.0;false;false
+third;Shedid (Sitik), Mr Daher (Docart);male;-1.0;false;false
+third;Sheerlinck, Mr Jean;male;-1.0;true;false
+third;Shellard, Mr Frederick B;male;-1.0;false;false
+third;Shine, Miss Ellen;female;-1.0;true;true
+third;Shorney, Mr Charles;male;-1.0;false;false
+third;Simmons, Mr John;male;-1.0;false;false
+third;Sirayanian, Mr Arsun;male;-1.0;false;false
+third;Sivic, Mr Husen;male;-1.0;false;false
+third;Sivola, Mr Antti;male;-1.0;false;false
+third;Sjoblom, Miss An Sofia;female;-1.0;true;true
+third;Sholt, Mr Peter Andreas Lauritz Andersen;male;-1.0;false;false
+third;Skinner, Mr Henry John;male;-1.0;false;false
+third;Skoog, Master Harald;male;-1.0;false;false
+third;Skoog, Master Karl;male;-1.0;false;false
+third;Skoog, Miss Mabel;female;-1.0;false;true
+third;Skoog, Miss Margit;female;-1.0;false;true
+third;Skoog, Mr William;male;-1.0;false;false
+third;Skoog, Mrs William;female;-1.0;false;true
+third;Slabenoff, Mr Petco;male;-1.0;false;false
+third;Slocovski, Mr Selman;male;-1.0;false;false
+third;Smiljanovic, Mr Mile;male;-1.0;false;false
+third;Smyth, Miss Julia;female;-1.0;true;true
+third;Solvang, Mrs Le Jacobsen;female;-1.0;false;true
+third;Somerton, Mr Francis William;male;-1.0;false;false
+third;Sop, Mr Jules;male;-1.0;true;false
+third;Spector, Mr Woolf;male;-1.0;false;false
+third;Staneff, Mr Ivan;male;-1.0;false;false
+third;Stankovic, Mr Jovan;male;-1.0;false;false
+third;Stanley, Miss Amy Zilla Elsie;female;-1.0;true;true
+third;Stanley, Mr Edward Roland;male;-1.0;false;false
+third;Storey, Mr Thomas;male;-1.0;false;false
+third;Stoyehoff, Mr Ilia;male;-1.0;false;false
+third;Strandberg, Miss Ida Sofia;female;-1.0;false;true
+third;Stranden, Mr Juho;male;-1.0;true;false
+third;Strilic, Mr Ivan;male;-1.0;false;false
+third;Strom, Mrs Wilhelm;female;-1.0;false;true
+third;Strom, Miss Telma (Selma) Matilda;female;-1.0;false;true
+third;Sunderland, Mr Victor Francis;male;-1.0;true;false
+third;Sundman, Mr Johan Julian;male;-1.0;false;false
+third;Sutehall, Mr Henry, Jr;male;-1.0;false;false
+third;Svensson, Mr Johan;male;-1.0;false;false
+third;Svensson, Mr Johan Cervin;male;-1.0;true;false
+third;Svensson, Mr Olof;male;-1.0;false;false
+third;Tannous, Mr Thomas;male;-1.0;false;false
+third;Tenglin, Mr Gunr Isidor;male;-1.0;true;false
+third;Theobald, Mr Thomas Leord;male;-1.0;false;false
+third;Thomas, Mrs Alexander;female;-1.0;true;true
+third;Thomas, Master Assad Alexander;male;-1.0;false;false
+third;Thomas, Mr Charles;male;-1.0;false;false
+third;Thomas, Mr John, Jr;male;-1.0;false;false
+third;Thomas, Mr John (? 1st/2nd class);male;-1.0;false;false
+third;Thomson, Mr Alexander;male;-1.0;false;false
+third;Thorneycroft, Mr Percival;male;-1.0;false;false
+third;Thorneycroft, Mrs Percival;female;-1.0;true;true
+third;Tikkanen, Mr Juho;male;-1.0;false;false
+third;Tobin, Mr Roger;male;-1.0;false;false
+third;Todoroff, Mr Lalio;male;-1.0;false;false
+third;Toerber, Mr Ernest William;male;-1.0;false;false
+third;Tomlin, Mr Ernest Portage;male;-1.0;false;false
+third;Torfa, Mr Assad;male;-1.0;false;false
+third;Touma (Thomas), Mrs Darwin;female;-1.0;false;true
+third;Touma (Thomas), Master George;male;-1.0;false;false
+third;Touma (Thomas), Miss Hanh;female;-1.0;false;true
+third;Turcin, Mr Stefan;male;-1.0;false;false
+third;Uzelas, Mr Joso;male;-1.0;false;false
+third;Van Billiard, Mr Austin Blyler;male;-1.0;false;false
+third;Van Billiard, Master James William;male;-1.0;false;false
+third;Van Billiard, Master Walter John;male;-1.0;false;false
+third;Vassilios, Mr Catavelas;male;-1.0;false;false
+third;Ware, Mr Frederick;male;-1.0;false;false
+third;Warren, Mr Charles William;male;-1.0;false;false
+third;Wazli, Mr Yousif;male;-1.0;false;false
+third;Webber, Mr James;male;-1.0;false;false
+third;Wennerstrom, Mr August Edvard;male;-1.0;true;false
+third;Wenzel, Mr Linhart;male;-1.0;false;false
+third;Willer, Mr Aaron;male;-1.0;false;false
+third;Willey, Mr Edward;male;-1.0;false;false
+third;Williams, Mr Howard Hugh;male;-1.0;false;false
+third;Wiseman, Mr Phillippe;male;-1.0;false;false
+third;Yalsevac, Mr Ivan;male;-1.0;true;false
+third;Youssef, Mr Gerios;male;-1.0;false;false
+third;Zabour, Miss Hileni;female;-1.0;false;true
+third;Zabour, Miss Tamini;female;-1.0;false;true

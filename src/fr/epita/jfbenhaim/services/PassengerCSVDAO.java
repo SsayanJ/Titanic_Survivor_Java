@@ -68,4 +68,34 @@ public class PassengerCSVDAO {
         csvWriter.flush();
         csvWriter.close();
     }
+
+    public static void writeAllPrediction(List<Passenger> passengerList, String filename) throws IOException {
+        FileWriter csvWriter = new FileWriter("output/" + filename);
+        csvWriter.append("PClass");
+        csvWriter.append(";");
+        csvWriter.append("Name");
+        csvWriter.append(";");
+        csvWriter.append("Sex");
+        csvWriter.append(";");
+        csvWriter.append("Age");
+        csvWriter.append(";");
+        csvWriter.append("Survived");
+        csvWriter.append(";");
+        csvWriter.append("Predicted");
+        csvWriter.append("\n");
+        List<String> rows=new ArrayList<>();
+        for (Passenger passenger: passengerList){
+            rows.add(passenger.getPassengerClass()+";"+passenger.getName()+";"+
+                    passenger.getSex()+";"+passenger.getAge()+";"+passenger.getSurvived()
+                    +";"+passenger.getPredicted()+"\n"
+            );
+        }
+        for (String row : rows) {
+            csvWriter.append(row);
+            ;
+        }
+
+        csvWriter.flush();
+        csvWriter.close();
+    }
 }
