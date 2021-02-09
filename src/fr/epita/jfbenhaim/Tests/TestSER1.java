@@ -1,4 +1,4 @@
-package fr.epita.jfbenhaim.Test;
+package fr.epita.jfbenhaim.Tests;
 
 import java.io.File;
 import java.io.IOException;
@@ -7,7 +7,6 @@ import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class TestSER1 {
     public static void test() throws IOException {
@@ -19,9 +18,10 @@ public class TestSER1 {
 
         String header = lines.remove(0);
         for (String line : lines) {
-            List<Double> parts = Arrays.asList(line.split(";")).stream()
-                    .map(s -> Double.parseDouble(s))
-                    .collect(Collectors.toList());
+            List<String> parts = Arrays.asList(line.split(";"));
+            for (int i=0; i<parts.size();i++){
+                parts.set(i,parts.get(i).trim());
+            }
             file_data.add(parts);
         }
         System.out.println(file_data.get(1));
